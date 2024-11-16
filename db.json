@@ -2,11 +2,19 @@
   "comedia": [
     {
       "id": 1,
-      "title": "Isla bonita",
+      "title": "Isla bonita (2023)",
       "year": 2023,
-      "description": "Sumidas en la monotonía de sus vidas, tres amigas deciden viajar a la ciudad amazónica de Iquitos. Rodeadas de grandiosos paisajes, una gran aventura definirá la felicidad de sus vidas para siempre.",
       "photo": "https://max.cuevana3.vip/wp-content/uploads/2024/02/isla-bonita-2023.jpg",
-      "url": "https://dood.li/e/ngde4jvt27jm?"
+      "descripcion" : [
+        {
+          "title": "Isla bonita",
+          "year": 2023,
+          "gender" : "aventura, comedia",
+          "description": "Sumidas en la monotonía de sus vidas, tres amigas deciden viajar a la ciudad amazónica de Iquitos. Rodeadas de grandiosos paisajes, una gran aventura definirá la felicidad de sus vidas para siempre.",
+          "photo": "https://max.cuevana3.vip/wp-content/uploads/2024/02/isla-bonita-2023.jpg",
+          "url": "https://dood.li/e/ngde4jvt27jm?"
+        }
+      ]
     },
     {
       "id": 2,
@@ -17,12 +25,12 @@
       "url": "https://brittneystandardwestern.com/e/lrxkb5znzap6"
     }
   ],
-  "Animacion" : [
+  "animacion" : [
     {
       "id": 1,
       "title": "Los Súper Campeones J",
       "year": 1994,
-      "description": "Capitán Tsubasa J es un anime que se estrenó el 21 de Octubre de 1994, presentando una mejora visual en la animación. Los capítulos que van desde el 1 hasta el 33, son un remake del campeonato japonés infantil. El resto de la serie nos muestra las historias de los personajes y su preparación para el Mundial. En esta serie aparece Aoi Shingo, por primera vez.Episodio 1-34 Oliver Atom se muda con su madre a la ciudad de Fujisawa. Tan pronto llega se inscribe al equipo de fútbol de la escuela Niupi (Nankatsu). Se hace amigo de Bruce Harper (Ryo Ishizaki) y Tom Misaki (Taro Misaki) que se inscribe un poco despues. Gracias a Oliver y Tom, el Niupi consigue empatar en el partido contra el San Francis (Shutetsu) del cual es parte el portero genio Benji Price (Genzo Wakabayashi). No mucho despues, se hace una selección entre equipos de la ciudad, de la cual se forma el New Team. El equipo participa del campeonato nacional entre primarias y logra vencer a varios equipos fuertes como el Hanawa de los hermanos Koriotto, el Musashi de Andy Johnson y el Meiwa de Steve Hyuga. Episodio 35-47 La segunda parte del anime comienza con Aoi Shingo, un nuevo personaje que de luego de tanto esfuerzo y perseveracia consigue entrar en el Inter de Milan. Mientras Oliver que entró al Sao Paolo, ganó el campeonato brasileño derrotando al Flamengo de Carlos Santana. Mientras, los jugadores de la selección nacional de Japón están entrenado para el mundial Sub-20. Un día, en uno de los entrenamientos, se presenta un equipo de siete jugadores, el Real Japón y desafia en un partido amistoso a siete jugadores de la selección ganandoles. Luego del partido el entrenador de la selección se enferma y el mando lo toma Gamo, el entrenador de los 7 del Real Japón y expulsa a Tom Misaki, Steve Hyuga, David Eagles, Victor Clifford y a los hermanos Koriotto, para que estos mejoren su nivel de juego. Gracias a Oliver, Benji y Aoi, el equipo nacional de Japón consigue superar la calificación, a pesar de las dificultades contra el equipo de Tailandia. Mientras los siete excluidos vuelven con nuevas tecnicas, vencen a los 7 del Real Japón y son reincorporados a la selección",
+      "description": "Capitán Tsubasa J es un anime que se estrenó el 21 de Octubre de 1994, presentando una mejora visual en la animación. Los capítulos que van desde el 1 hasta el 33, son un remake del campeonato japonés infantil.",
       "photo": "https://max.cuevana3.vip/wp-content/uploads/2023/10/los-super-campeones-j-1994.jpg",
       "url": "https://brittneystandardwestern.com/e/lrxkb5znzap6"
     }
