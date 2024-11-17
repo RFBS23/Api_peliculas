@@ -1,6 +1,8 @@
-## Api de peliculas
-- hecha con node js
-- json server
+# Api de peliculas
+
+### hecha con:
+- Node JS.
+- Json Server.
 
 ### secciones
 - Banner.
@@ -8,7 +10,7 @@
 - Animación.
 
 puedes visualizar la api haciendo click aqui -> 
-[`ver Json`](https://api-peliculas-tan.vercel.app/data.json)
+[`ver Json`](https://api-peliculas-fabridev.vercel.app/data.json)
 
 ## Contacto
 
