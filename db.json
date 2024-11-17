@@ -1,4 +1,124 @@
 {
+  "Banners": [
+    {
+      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "name": "Los Niños Perdidos",
+      "genre" : "Documental",
+      "year": "2024",
+      "age" : "+13",
+      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
+      "url": "https://swishsrv.com/e/f5a3thmodj33",
+      "Time": "2h 30m",
+      "Title": "Los Niños Perdidos",
+      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "Year": 2024,
+      "Casts": [
+        {
+          "Actor": "Jorge Duran",
+          "PicUrl": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/96/14/18813984.jpg"
+        },
+        {
+          "Actor": "Lali Houghton",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Orlando von Einsiedel",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        }
+      ]
+    },
+    {
+      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/arena-wars-2024.jpg",
+      "name": "Arena Wars",
+      "genre" : [
+        "Acción",
+        "Ciencia Ficción",
+        "Comedia",
+        "Suspense",
+        "Terror"
+      ],
+      "year": "2024",
+      "age" : "+18",
+      "descripcion" : "En el año 2045, los criminales convictos tienen la oportunidad de competir en el evento deportivo televisado número 1 del mundo, Arena Wars. Deben sobrevivir 7 habitaciones y 7 de los asesinos más viciosos del país. Si ganan, recuperan su libertad.",
+      "url": "https://playerwish.com/e/1xbtw7cmfytl",
+      "Time": "1h 36m",
+      "Title": "Arena Wars",
+      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/arena-wars-2024.jpg",
+      "Year": 2024,
+      "Casts": [
+        {
+          "Actor": "Michael Madsen",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNTkyN2VmYmMtZDY1YS00MzhhLWI4MWQtZmFkMzg5YTE4NjMxXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Kylie Fulmer",
+          "PicUrl": "https://www.imdb.com/name/nm12563977/mediaviewer/rm3124216065/"
+        },
+        {
+          "Actor": "Eric Roberts",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Mercedes Peterson",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        }
+      ]
+    },
+    {
+      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "name": "Los Niños Perdidos",
+      "genre" : "Documental",
+      "year": "2024",
+      "age" : "+13",
+      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
+      "url": "https://swishsrv.com/e/f5a3thmodj33",
+      "Time": "2h 30m",
+      "Title": "Los Niños Perdidos",
+      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "Year": 2024,
+      "Casts": [
+        {
+          "Actor": "Jorge Duran",
+          "PicUrl": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/96/14/18813984.jpg"
+        },
+        {
+          "Actor": "Lali Houghton",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Orlando von Einsiedel",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        }
+      ]
+    },
+    {
+      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "name": "Los Niños Perdidos",
+      "genre" : "Documental",
+      "year": "2024",
+      "age" : "+13",
+      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
+      "url": "https://swishsrv.com/e/f5a3thmodj33",
+      "Time": "2h 30m",
+      "Title": "Los Niños Perdidos",
+      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "Year": 2024,
+      "Casts": [
+        {
+          "Actor": "Jorge Duran",
+          "PicUrl": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/96/14/18813984.jpg"
+        },
+        {
+          "Actor": "Lali Houghton",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Orlando von Einsiedel",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        }
+      ]
+    }
+  ],
   "comedia": [
     {
       "id": 1,
