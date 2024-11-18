@@ -6,11 +6,12 @@
       "genre" : "Documental",
       "year": "2024",
       "age" : "+13",
-      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
-      "url": "https://swishsrv.com/e/f5a3thmodj33",
+      "time": "2h 30m",
+      "Descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
+      "Trailer": "https://swishsrv.com/e/f5a3thmodj33",
       "Time": "2h 30m",
       "Title": "Los Niños Perdidos",
-      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "Poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
       "Year": 2024,
       "Casts": [
         {
@@ -34,16 +35,16 @@
         "Acción",
         "Ciencia Ficción",
         "Comedia",
-        "Suspense",
-        "Terror"
+        "Suspense"
       ],
       "year": "2024",
       "age" : "+18",
-      "descripcion" : "En el año 2045, los criminales convictos tienen la oportunidad de competir en el evento deportivo televisado número 1 del mundo, Arena Wars. Deben sobrevivir 7 habitaciones y 7 de los asesinos más viciosos del país. Si ganan, recuperan su libertad.",
-      "url": "https://playerwish.com/e/1xbtw7cmfytl",
+      "time": "1h 36m",
+      "Descripcion" : "En el año 2045, los criminales convictos tienen la oportunidad de competir en el evento deportivo televisado número 1 del mundo, Arena Wars. Deben sobrevivir 7 habitaciones y 7 de los asesinos más viciosos del país. Si ganan, recuperan su libertad.",
+      "Trailer": "https://playerwish.com/e/1xbtw7cmfytl",
       "Time": "1h 36m",
       "Title": "Arena Wars",
-      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/arena-wars-2024.jpg",
+      "Poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/arena-wars-2024.jpg",
       "Year": 2024,
       "Casts": [
         {
@@ -65,94 +66,141 @@
       ]
     },
     {
-      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjc1ZWU3MTQtMGNhNC00MWIxLWI4YjItZmZmNTJhYjNmZTZkXkEyXkFqcGc@._V1_.jpg",
       "name": "Last Night at Terrace Lanes",
-      "genre" : "Documental",
+      "genre" : [
+        "Comedia", "Suspenso", "Terror"
+      ],
       "year": "2024",
-      "age" : "+13",
-      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
-      "url": "https://swishsrv.com/e/f5a3thmodj33",
-      "Time": "2h 30m",
+      "age" : "+18",
+      "time": "1h 36m",
+      "Descripcion" : "Cuando una secta sedienta de sangre invade un boliche en su última noche de funcionamiento, una estudiante de secundaria en una cita del infierno, debe unir fuerzas con su padre para defenderse de los asesinos enloquecidos.",
+      "Trailer": "https://doodstream.com/e/xvfr0fsl0uja",
+      "Time": "1h 15m",
       "Title": "Last Night at Terrace Lanes",
-      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc1ZWU3MTQtMGNhNC00MWIxLWI4YjItZmZmNTJhYjNmZTZkXkEyXkFqcGc@._V1_.jpg",
       "Year": 2024,
       "Casts": [
         {
-          "Actor": "Jorge Duran",
-          "PicUrl": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/96/14/18813984.jpg"
+          "Actor": "Francesca Capaldi",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZWM4YTk0OWQtOTU5Zi00NGQ2LWFmNDgtZmU5ZjZmNTllYzEwXkEyXkFqcGc@._V1_.jpg"
         },
         {
-          "Actor": "Lali Houghton",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+          "Actor": "Ken Arnold",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BYWY2MjVkZDgtNTBkNi00M2FkLWI1YWItZTE0MzBjZWM5N2RlXkEyXkFqcGc@._V1_.jpg"
         },
         {
-          "Actor": "Orlando von Einsiedel",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+          "Actor": "Mia Rae Roberts",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BODlmYWE0MzctMmE4OS00NDA1LWE4OGMtNjM3ZjgzODAyYjVmXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Jessenia rebecca Beaumont",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZTkwZGQ3ZGUtYzdkYS00MzExLWI4ZjUtYjk4N2M3YTVhMGEzXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Christopher inlow",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZDBiYTdlMjgtN2M2ZC00YmE5LWI0YTYtZTU1OGJlYmY1NTVhXkEyXkFqcGc@._V1_.jpg"
         }
       ]
     },
     {
-      "image": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
-      "name": "Los Niños Perdidos",
-      "genre" : "Documental",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjA2YTEzNTMtNWFjYy00YTQ2LTgzZTItYzQzMDhiMDQ5NTg1XkEyXkFqcGc@._V1_.jpg",
+      "name": "La Leyenda Del Dragón (Dragonkeeper)",
+      "genre" : [
+        "Animación", "Aventura", "Fantasía"
+      ],
       "year": "2024",
-      "age" : "+13",
-      "descripcion" : "Tras un accidente aéreo, cuatro niños indígenas luchan por su vidas en la selva amazónica usando sabiduría ancestral mientras se lleva a cabo una misión de rescate sin precedentes.",
-      "url": "https://swishsrv.com/e/f5a3thmodj33",
-      "Time": "2h 30m",
-      "Title": "Los Niños Perdidos",
-      "poster": "https://max.cuevana3.vip/wp-content/uploads/2024/11/los-ninos-perdidos-2024.jpg",
+      "age" : "+10",
+      "time": "1h 36m",
+      "Descripcion" : "Los dragones, antaño amigos y sabios aliados de los hombres, llevan años perseguidos y enjaulados. En una lejana fortaleza, una joven ayuda al último dragón vivo a escapar de su cautiverio para recuperar su tesoro más preciado.",
+      "Trailer": "https://playerwish.com/e/ekzrupijyoa5",
+      "Time": "1h 40m",
+      "Title": "La Leyenda Del Dragón (Dragonkeeper)",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA2YTEzNTMtNWFjYy00YTQ2LTgzZTItYzQzMDhiMDQ5NTg1XkEyXkFqcGc@._V1_.jpg",
       "Year": 2024,
       "Casts": [
         {
-          "Actor": "Jorge Duran",
-          "PicUrl": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/64/96/14/18813984.jpg"
+          "Actor": "Bill Nighy",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNDM2MDg4MV5BMl5BanBnXkFtZTcwODA3NTk3NA@@._V1_.jpg"
         },
         {
-          "Actor": "Lali Houghton",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+          "Actor": "Mayalinee Griffiths",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BODA4YzdjNzAtZjY2YS00MDUzLWI4ZTQtYzRhMzk2ZDdkYTcyXkEyXkFqcGc@._V1_.jpg"
         },
         {
-          "Actor": "Orlando von Einsiedel",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+          "Actor": "Anthony Howell",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNTVlYmQxZTItZWZiNi00OGRlLThlODktNGM1ZTZhMGMyYzc3XkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Bill Bailey",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTMzOTMwNTQxOV5BMl5BanBnXkFtZTcwNDkzNTQ0NA@@._V1_.jpg"
         }
       ]
     }
   ],
   "comedia": [
     {
-      "id": 1,
-      "title": "Isla bonita (2023)",
-      "year": 2023,
-      "photo": "https://max.cuevana3.vip/wp-content/uploads/2024/02/isla-bonita-2023.jpg",
-      "descripcion" : [
+      "Casts": [
         {
-          "title": "Isla bonita",
-          "year": 2023,
-          "gender" : "aventura, comedia",
-          "description": "Sumidas en la monotonía de sus vidas, tres amigas deciden viajar a la ciudad amazónica de Iquitos. Rodeadas de grandiosos paisajes, una gran aventura definirá la felicidad de sus vidas para siempre.",
-          "photo": "https://max.cuevana3.vip/wp-content/uploads/2024/02/isla-bonita-2023.jpg",
-          "url": "https://dood.li/e/ngde4jvt27jm?"
+          "Actor": "Patricia Barreto",
+          "PicUrl": "https://e.rpp-noticias.io/xlarge/2020/02/25/583358_905143.png"
+        },
+        {
+          "Actor": "Saskia Bernaloa",
+          "PicUrl": "https://pics.filmaffinity.com/266561173069879-nm_200.jpg"
+        },
+        {
+          "Actor": "Emilia Drago",
+          "PicUrl": "https://cosasbucket.s3.amazonaws.com/wp-content/uploads/2017/08/24041504/IMG_7451-1.jpg"
+        },
+        {
+          "Actor": "Patricia Portocarrero",
+          "PicUrl": "https://www.magacin247.com/wp-content/uploads/2021/03/Patricia-Portocarrero-980x528.jpg"
         }
-      ]
+      ],
+      "Descripcion" : "Sumidas en la monotonía de sus vidas, tres amigas deciden viajar a la ciudad amazónica Iquitos. Rodeadas de grandiosos paisajes, la gran aventura definirá la felicidad de sus vidas para siempre.",
+      "Genre": [
+        "Aventura",
+        "Comedia"
+      ],
+      "Poster": "https://max.cuevana3.vip/wp-content/uploads/2024/02/isla-bonita-2023.jpg",
+      "Time": "2h 30m",
+      "Title": "Isla bonita",
+      "Trailer": "https://dood.li/e/ngde4jvt27jm?",
+      "Year": 2023
     },
     {
-      "id": 2,
+      "Casts": [
+        {
+          "Actor": "Blake Foster",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Carol Hoyt",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Lex Lang",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        },
+        {
+          "Actor": "Ed Neil",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/1789/1789242.png"
+        }
+      ],
+      "Descripcion" : "Los Turbo Power Rangers deben enfrentarse, en esta ocasión, a la diabólica y malvada pirata espacial Diratox, que ha raptado a un sabio y amable  alien.",
+      "Genre": [
+        "Acción",
+        "Aventura",
+        "Ciencia Ficción",
+        "Comedia",
+        "fantasia"
+      ],
+      "Poster": "https://max.cuevana3.vip/wp-content/uploads/2023/10/power-rangers-turbo-1997.jpg",
+      "Time": "1h 40m",
       "title": "Power Rangers: Turbo",
-      "year": 1997,
-      "description": "Los Turbo Power Rangers deben enfrentarse, en esta ocasión, a la diabólica y malvada pirata espacial Diratox, que ha raptado a un sabio y amable  alien.",
-      "photo": "https://max.cuevana3.vip/wp-content/uploads/2023/10/power-rangers-turbo-1997.jpg",
-      "url": "https://brittneystandardwestern.com/e/lrxkb5znzap6"
-    }
-  ],
-  "animacion" : [
-    {
-      "id": 1,
-      "title": "Los Súper Campeones J",
-      "year": 1994,
-      "description": "Capitán Tsubasa J es un anime que se estrenó el 21 de Octubre de 1994, presentando una mejora visual en la animación. Los capítulos que van desde el 1 hasta el 33, son un remake del campeonato japonés infantil.",
-      "photo": "https://max.cuevana3.vip/wp-content/uploads/2023/10/los-super-campeones-j-1994.jpg",
-      "url": "https://brittneystandardwestern.com/e/lrxkb5znzap6"
+      "Trailer": "https://brittneystandardwestern.com/e/lrxkb5znzap6",
+      "Year": 1997
     }
   ]
 }
