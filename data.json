@@ -6,7 +6,7 @@
       "genre": "Aventura",
       "year": "27/11/2024",
       "age": "+ 09",
-      "time": "0h 00m",
+      "time": "1h 30m",
 
       "Casts": [
         {
@@ -217,6 +217,37 @@
     }
   ],
   "Estrenos": [
+    {
+      "Casts": [
+        {
+          "Actor": "Dwayne Johnson",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Auli'i Cravalho",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Alan Tudyk",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
+        },
+        {
+          "Actor": "Nicole Scherzinger",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
+        }
+      ],
+      "Description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "Genre": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 30m",
+      "Title": "Moana 2 (2024)",
+      "Trailer": "https://playerwish.com/e/44f5uwdj9owi",
+      "Year": 2024
+    },
     {
       "Casts": [
         {
@@ -1479,7 +1510,8 @@
       "Description": "Sigue esta autobiografía en la que Pharrell Williams muestra su proceso imaginativo y creativo utilizando Lego, a medida que construye modelos de Lego que representan su desarrollo artístico. Cada construcción refleja un hito creativo diferente.",
       "Genre": [
         "Animación",
-        "Documental"
+        "Documental",
+        "Musical"
       ],
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg",
       "Time": "1h 33m",
@@ -3018,12 +3050,408 @@
       "Description": "Dos ratones: Vini, un carismático poeta con un terrible miedo escénico, y Tito, un talentoso y encantador guitarrista. Cuando llega el diluvio, solo se permite que un macho y una hembra de cada especie suban al Arca de Noé. Con la ayuda de una ingeniosa cucaracha y buena suerte, Vini y Tito se cuelan en el Arca y juntos intentarán evitar el enfrentamiento entre carnívoros y herbívoros. ¿Podrán estos talentosos polizones usar la música para romper la tensión y ayudar a todas las especies a convivir sin comerse unos a otros durante 40 días y 40 noches?",
       "Genre": [
         "Animacion",
-        "Comedia"
+        "Comedia",
+        "Musical"
       ],
       "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
-      "Trailer": "https://vudeo.ws/embed-70ykjrec80if.html",
+      "Trailer": "https://dood.wf/e/gvczwv3vmmlt",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Luis Gerardo Méndez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fFNPFTVHwySU8d7Q1MORCd72eZX.jpg"
+        },
+        {
+          "Actor": "Karla Souza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k97X2Si4mUKlmL0fSO38x5xaNMb.jpg"
+        },
+        {
+          "Actor": "Gabriel Nuncio",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/q5KePBOpRwEPneBuMQgTjSjYLUQ.jpg"
+        },
+        {
+          "Actor": "Luis Rodriguez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nIMtyJBtfWMdnN6yPHfdKIDNin8.jpg"
+        },
+        {
+          "Actor": "Fernando Bonilla",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/wVahFHigW6rddl02ZJel6G2rtdV.jpg"
+        },
+        {
+          "Actor": "Daniela Vega",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pqiWEvi0iwtkWMq2060jtrckxpS.jpg"
+        },
+        {
+          "Actor": "Mónica del Carmen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+        },
+        {
+          "Actor": "Joaquin Ferreira",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dGpDGDPMtvsZpc4ZMMgjy1DOGpU.jpg"
+        },
+        {
+          "Actor": "Germán Bracco",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ccBF4wazfF5rZ94U2SeiJ8jgoJZ.jpg"
+        }
+      ],
+      "Description": "Veinte años después de encabezar las listas de éxitos, los Technoboys se reúnen para recuperar el trono del pop, pero deben luchar contra grupos más nuevos en un mundo musical que ha cambiado. El cantante tiene motivos ocultos para volver.",
+      "Genre": [
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg",
+      "Time": "1h 49min",
+      "Title": "Technoboys (2024)",
+      "Trailer": "https://hlsflast.com/e/co1txcv5fedq",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jaime Lorente",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+        },
+        {
+          "Actor": "Alberto Ammann",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8jhuoxRvOTJFHmYh4kmCAZ8Mggj.jpg"
+        },
+        {
+          "Actor": "Alejandro Speitzer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fCxdLXXMwdppBAfnS90PAbQ1w0M.jpg"
+        },
+        {
+          "Actor": "Iván Pellicer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uhwAlJ5hbHri3TUmAno9NcOA1MV.jpg"
+        },
+        {
+          "Actor": "Pol Granch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifMnwVcQ7hlk9wigqHnHx43xkvY.jpg"
+        },
+        {
+          "Actor": "Javier Morgade",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg"
+        },
+        {
+          "Actor": "Albert Baró",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kGmqZn1ijhFoTMwnptbcLdl7qdv.jpg"
+        },
+        {
+          "Actor": "Vito Sanz",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yPgr3fd3PjekcMWCv77fLCKOgm8.jpg"
+        },
+        {
+          "Actor": "Eva Llorach",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+        }
+      ],
+      "Description": "Estamos en la España de mediados de los 80. Un grupo de amigos capitaneados por Xavi Font (Jaime Lorente), acaban de llegar a Ibiza persiguiendo su sueño de dedicarse a la moda. Allí les descubre el productor José Luís Gil (Alberto Ammann), un magnate de la industria musical que busca nuevos talentos para lanzar un grupo. Sin tener ni idea de cantar, el grupo inicia una carrera que les lleva de vivir como hippies en Ibiza, a llenar estadios en Latinoamérica y revolucionar de paso las discotecas de medio mundo. Crearon un nuevo estilo, fueron perseguidos por fans y ganaron millones… Aunque para ello tuvieron que sacrificar su libertad.",
+      "Genre": [
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef1yaVkpkX4rXv4P3MKpuQX0MZ.jpg",
+      "Time": "1h 44min",
+      "Title": "Disco, Ibiza, Locomía (2024)",
+      "Trailer": "https://nikaplayerr.com/v/268mmucgd9r9",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Harry Connick Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+        },
+        {
+          "Actor": "Agni Scott",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
+        },
+        {
+          "Actor": "Ali Fumiko Whitney",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lNDemMM9B9rdmfXmClSWOuBQLij.jpg"
+        },
+        {
+          "Actor": "Clarence Smith",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7HhMsotc0XXt9r0XGt6dwRCpsGM.jpg"
+        },
+        {
+          "Actor": "Athina Roditou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mmb5MWIXYFlXS5sIqgoTWeaUbRE.jpg"
+        },
+        {
+          "Actor": "Antonis Katsaris",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pWhJPp4BtEtTPsPwt9BxGx9mgbm.jpg"
+        },
+        {
+          "Actor": "Andreas Phylactou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rFh3Al2IugfKmraqIJJvAaCnxv9.jpg"
+        },
+        {
+          "Actor": "Ioanna Siafkalli",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Yiola Klitou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7SIFV14cOdeTWqERR3YzwUBuqFf.jpg"
+        }
+      ],
+      "Description": "Después de un álbum de regreso fallido, la estrella de rock John Allman escapa a una isla de ensueño en el Mediterráneo, solo para descubrir que su nueva casa junto a un acantilado tiene una desafortunada notoriedad que atrae a visitantes no deseados y a un viejo amor.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg",
+      "Time": "1h 34min",
+      "Title": "Al borde del abismo (2024)",
+      "Trailer": "https://nikaplayerr.com/v/a6jzpijluxxy",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Marisa Abela",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+        },
+        {
+          "Actor": "Jack O'Connell",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "Actor": "Eddie Marsan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+          "Actor": "Lesley Manville",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+          "Actor": "Sam Buchanan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        },
+        {
+          "Actor": "Pete Lee-Wilson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6BIw7dhANZwzX2pSKMycC2X8n2h.jpg"
+        },
+        {
+          "Actor": "Thelma Euby",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Michael S. Siegel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6nIKEcxdbPXHmG8wo1Lj5mo3XWw.jpg"
+        },
+        {
+          "Actor": "Juliet Cowan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        }
+      ],
+      "Description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+      "Genre": [
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "Time": "2h 02min",
+      "Title": "Back to Black (2024)",
+      "Trailer": "https://nikaplayerr.com/v/aythlsubj5yx",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Dwayne Johnson",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Auli'i Cravalho",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Alan Tudyk",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
+        },
+        {
+          "Actor": "Nicole Scherzinger",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
+        }
+      ],
+      "Description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "Genre": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 30m",
+      "Title": "Moana 2 (2024)",
+      "Trailer": "https://playerwish.com/e/44f5uwdj9owi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Letizia Toni",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yRPNO9rdmLXi8MLZKx3XMxYEFni.jpg"
+        },
+        {
+          "Actor": "Selene Caramazza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fm8MiYMRWuswuzbjdVlOvdCjnta.jpg"
+        },
+        {
+          "Actor": "Maurizio Lombardi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/irObmo0V04lDrJzt4ISlyYnyiVn.jpg"
+        },
+        {
+          "Actor": "Stefano Rossi Giordani",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xs395AMZtXEp8yBFUtKpaPFe4qP.jpg"
+        }
+      ],
+      "Description": "La historia del origen de una de las mayores estrellas del rock italiano, Gianna Nannini, que persiguió su sueño a pesar de los obstáculos de su familia y de la industria musical.",
+      "Genre": [
+        "Musical",
+        "Drama"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jqXeDH6dnwG9tqUMWHKkat2YpGk.jpg",
+      "Time": "1h 53m",
+      "Title": "Te llevo en el alma (2024)",
+      "Trailer": "https://nikaplayerr.com/v/lrvloymr91c0",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anne Hathaway",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kRYxBuUtN3vNz5pLfqCf32ZYlw2.jpg"
+        },
+        {
+          "Actor": "Nicholas Galitzine",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+        },
+        {
+          "Actor": "Ella Rubin",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        },
+        {
+          "Actor": "Annie Mumolo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4U943oEvfDg8Tuyjl9biLgzijBf.jpg"
+        }
+      ],
+      "Description": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+      "Time": "1h 30m",
+      "Title": "La idea de tenerte (2024)",
+      "Trailer": "https://nikaplayerr.com/v/4698sqd28et8",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Kingsley Ben-Adir",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+        },
+        {
+          "Actor": "Lashana Lynch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        },
+        {
+          "Actor": "James Norton",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aZZWaiglevswXeny4fxYlSUjOzC.jpg"
+        },
+        {
+          "Actor": "Tosin Cole",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ezgqHhUm5I6zfe0tGvk29NsF5g7.jpg"
+        },
+        {
+          "Actor": "Umi Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/sWofAn489etQ3BBHjYODae8MFev.jpg"
+        },
+        {
+          "Actor": "Anthony Welsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uIqZvNHN2jw3rIkttRc179X1VjC.jpg"
+        },
+        {
+          "Actor": "Nia Ashi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7BoSs1aAu5EjG05Ykhb5r9AH924.jpg"
+        },
+        {
+          "Actor": "Aston Barrett Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rGr78L3p5OEVhCRPvw7wHX0L6Qx.jpg"
+        },
+        {
+          "Actor": "Anna-Sharé Blake",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        }
+      ],
+      "Description": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+      "Genre": [
+        "Drama",
+        "Historia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+      "Time": "1h 45min",
+      "Title": "Bob Marley: One Love (2024)",
+      "Trailer": "https://nikaplayerr.com/v/ylgtghs8b7ss",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rudy Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7jP4syZQ4ccpd8H2HvyubRLHQcI.jpg"
+        },
+        {
+          "Actor": "Camila Mendes",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+        },
+        {
+          "Actor": "Francesca Reale",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pu3fDpxNJXpSe9EgP10JIwR4j4a.jpg"
+        },
+        {
+          "Actor": "Maria Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3rLbek1Y4KwhqkoBnux3qAvRas1.jpg"
+        },
+        {
+          "Actor": "JB Smoove",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+        },
+        {
+          "Actor": "Andy Grotelueschen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hYlCG3IJtXZ6ajqwmEQePwMwZde.jpg"
+        },
+        {
+          "Actor": "Camila Senna",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/59EksxnbzMO3ZxPy0Z5K7CWpfxB.jpg"
+        },
+        {
+          "Actor": "Regina Schneider",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lBgb9PtbM8WKh6bPgV8gNqflikU.jpg"
+        },
+        {
+          "Actor": "Gregory Jones",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/arukbRBUpgMFzmq3XHnAgieHyd9.jpg"
+        }
+      ],
+      "Description": "Sigue a un joven muy apasionado por la música. Tiene que aceptar un futuro incierto mientras equilibra su vida amorosa, su familia y la cultura brasileña en Nueva Jersey.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+      "Time": "1h 31min",
+      "Title": "Música (2024)",
+      "Trailer": "https://nikaplayerr.com/v/5kl3by1h83gk",
       "Year": 2024
     }
   ],
@@ -3503,6 +3931,57 @@
     {
       "Casts": [
         {
+          "Actor": "Harry Connick Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+        },
+        {
+          "Actor": "Agni Scott",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
+        },
+        {
+          "Actor": "Ali Fumiko Whitney",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lNDemMM9B9rdmfXmClSWOuBQLij.jpg"
+        },
+        {
+          "Actor": "Clarence Smith",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7HhMsotc0XXt9r0XGt6dwRCpsGM.jpg"
+        },
+        {
+          "Actor": "Athina Roditou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mmb5MWIXYFlXS5sIqgoTWeaUbRE.jpg"
+        },
+        {
+          "Actor": "Antonis Katsaris",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pWhJPp4BtEtTPsPwt9BxGx9mgbm.jpg"
+        },
+        {
+          "Actor": "Andreas Phylactou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rFh3Al2IugfKmraqIJJvAaCnxv9.jpg"
+        },
+        {
+          "Actor": "Ioanna Siafkalli",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Yiola Klitou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7SIFV14cOdeTWqERR3YzwUBuqFf.jpg"
+        }
+      ],
+      "Description": "Después de un álbum de regreso fallido, la estrella de rock John Allman escapa a una isla de ensueño en el Mediterráneo, solo para descubrir que su nueva casa junto a un acantilado tiene una desafortunada notoriedad que atrae a visitantes no deseados y a un viejo amor.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg",
+      "Time": "1h 34min",
+      "Title": "Al borde del abismo (2024)",
+      "Trailer": "https://nikaplayerr.com/v/a6jzpijluxxy",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
           "Actor": "Patricia Barreto",
           "PicUrl": "https://e.rpp-noticias.io/xlarge/2020/02/25/583358_905143.png"
         },
@@ -3529,6 +4008,56 @@
       "Title": "Isla bonita",
       "Trailer": "https://streamwish.to/e/4ocuomfa5g9v",
       "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Luis Gerardo Méndez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fFNPFTVHwySU8d7Q1MORCd72eZX.jpg"
+        },
+        {
+          "Actor": "Karla Souza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k97X2Si4mUKlmL0fSO38x5xaNMb.jpg"
+        },
+        {
+          "Actor": "Gabriel Nuncio",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/q5KePBOpRwEPneBuMQgTjSjYLUQ.jpg"
+        },
+        {
+          "Actor": "Luis Rodriguez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nIMtyJBtfWMdnN6yPHfdKIDNin8.jpg"
+        },
+        {
+          "Actor": "Fernando Bonilla",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/wVahFHigW6rddl02ZJel6G2rtdV.jpg"
+        },
+        {
+          "Actor": "Daniela Vega",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pqiWEvi0iwtkWMq2060jtrckxpS.jpg"
+        },
+        {
+          "Actor": "Mónica del Carmen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+        },
+        {
+          "Actor": "Joaquin Ferreira",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dGpDGDPMtvsZpc4ZMMgjy1DOGpU.jpg"
+        },
+        {
+          "Actor": "Germán Bracco",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ccBF4wazfF5rZ94U2SeiJ8jgoJZ.jpg"
+        }
+      ],
+      "Description": "Veinte años después de encabezar las listas de éxitos, los Technoboys se reúnen para recuperar el trono del pop, pero deben luchar contra grupos más nuevos en un mundo musical que ha cambiado. El cantante tiene motivos ocultos para volver.",
+      "Genre": [
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg",
+      "Time": "1h 49min",
+      "Title": "Technoboys (2024)",
+      "Trailer": "https://hlsflast.com/e/co1txcv5fedq",
+      "Year": 2024
     },
     {
       "Casts": [
@@ -4310,12 +4839,147 @@
       "Description": "Dos ratones: Vini, un carismático poeta con un terrible miedo escénico, y Tito, un talentoso y encantador guitarrista. Cuando llega el diluvio, solo se permite que un macho y una hembra de cada especie suban al Arca de Noé. Con la ayuda de una ingeniosa cucaracha y buena suerte, Vini y Tito se cuelan en el Arca y juntos intentarán evitar el enfrentamiento entre carnívoros y herbívoros. ¿Podrán estos talentosos polizones usar la música para romper la tensión y ayudar a todas las especies a convivir sin comerse unos a otros durante 40 días y 40 noches?",
       "Genre": [
         "Animacion",
-        "Comedia"
+        "Comedia",
+        "Musical"
       ],
       "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
-      "Trailer": "https://vudeo.ws/embed-70ykjrec80if.html",
+      "Trailer": "https://dood.wf/e/gvczwv3vmmlt",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Mo Gilligan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/i6heWKdRr6QJYO9VZ3ag2kFsE9H.jpg"
+        },
+        {
+          "Actor": "Simone Ashley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg"
+        },
+        {
+          "Actor": "Sophie Okonedo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fpqohSUUSs1hjc9aHo5x6ypDr5Y.jpg"
+        },
+        {
+          "Actor": "Zayn Malik",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nzCk09tN15NOMpKPoCwegcJnx3j.jpg"
+        },
+        {
+          "Actor": "Dylan Llewellyn",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1NAgIljZXDGwTrzKEQEIWNqGSfe.jpg"
+        },
+        {
+          "Actor": "Jeremy Swift",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+        },
+        {
+          "Actor": "Bill Nighy",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+        },
+        {
+          "Actor": "Tabitha Cross",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Christopher Jenkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/vAP7L1vMOhm7LArXGESmL7WsPD.jpg"
+        }
+      ],
+      "Description": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
+      "Genre": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkMGMyODItY2U4Mi00ODViLWIyMjgtNGE3NDM0MmQxZmFjXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 24min",
+      "Title": "Un Gato Con Suerte - 10 vidas (2024)",
+      "Trailer": "https://dood.wf/e/mxa6xt8kmz73",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anne Hathaway",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kRYxBuUtN3vNz5pLfqCf32ZYlw2.jpg"
+        },
+        {
+          "Actor": "Nicholas Galitzine",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+        },
+        {
+          "Actor": "Ella Rubin",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        },
+        {
+          "Actor": "Annie Mumolo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4U943oEvfDg8Tuyjl9biLgzijBf.jpg"
+        }
+      ],
+      "Description": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+      "Time": "1h 30m",
+      "Title": "La idea de tenerte (2024)",
+      "Trailer": "https://nikaplayerr.com/v/4698sqd28et8",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rudy Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7jP4syZQ4ccpd8H2HvyubRLHQcI.jpg"
+        },
+        {
+          "Actor": "Camila Mendes",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+        },
+        {
+          "Actor": "Francesca Reale",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pu3fDpxNJXpSe9EgP10JIwR4j4a.jpg"
+        },
+        {
+          "Actor": "Maria Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3rLbek1Y4KwhqkoBnux3qAvRas1.jpg"
+        },
+        {
+          "Actor": "JB Smoove",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+        },
+        {
+          "Actor": "Andy Grotelueschen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hYlCG3IJtXZ6ajqwmEQePwMwZde.jpg"
+        },
+        {
+          "Actor": "Camila Senna",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/59EksxnbzMO3ZxPy0Z5K7CWpfxB.jpg"
+        },
+        {
+          "Actor": "Regina Schneider",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lBgb9PtbM8WKh6bPgV8gNqflikU.jpg"
+        },
+        {
+          "Actor": "Gregory Jones",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/arukbRBUpgMFzmq3XHnAgieHyd9.jpg"
+        }
+      ],
+      "Description": "Sigue a un joven muy apasionado por la música. Tiene que aceptar un futuro incierto mientras equilibra su vida amorosa, su familia y la cultura brasileña en Nueva Jersey.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+      "Time": "1h 31min",
+      "Title": "Música (2024)",
+      "Trailer": "https://nikaplayerr.com/v/5kl3by1h83gk",
       "Year": 2024
     }
   ],
@@ -4855,6 +5519,37 @@
     }
   ],
   "Aventura": [
+    {
+      "Casts": [
+        {
+          "Actor": "Dwayne Johnson",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Auli'i Cravalho",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Alan Tudyk",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
+        },
+        {
+          "Actor": "Nicole Scherzinger",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
+        }
+      ],
+      "Description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "Genre": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 30m",
+      "Title": "Moana 2 (2024)",
+      "Trailer": "https://playerwish.com/e/44f5uwdj9owi",
+      "Year": 2024
+    },
     {
       "Casts": [
         {
@@ -5565,6 +6260,37 @@
     {
       "Casts": [
         {
+          "Actor": "Dwayne Johnson",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Auli'i Cravalho",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Alan Tudyk",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
+        },
+        {
+          "Actor": "Nicole Scherzinger",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
+        }
+      ],
+      "Description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "Genre": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 30m",
+      "Title": "Moana 2 (2024)",
+      "Trailer": "https://playerwish.com/e/44f5uwdj9owi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
           "Actor": "Rachel Zegler",
           "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_.jpg"
         },
@@ -5717,7 +6443,8 @@
       "Description": "Sigue esta autobiografía en la que Pharrell Williams muestra su proceso imaginativo y creativo utilizando Lego, a medida que construye modelos de Lego que representan su desarrollo artístico. Cada construcción refleja un hito creativo diferente.",
       "Genre": [
         "Animación",
-        "Documental"
+        "Documental",
+        "Musical"
       ],
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg",
       "Time": "1h 33m",
@@ -7193,12 +7920,65 @@
       "Description": "Dos ratones: Vini, un carismático poeta con un terrible miedo escénico, y Tito, un talentoso y encantador guitarrista. Cuando llega el diluvio, solo se permite que un macho y una hembra de cada especie suban al Arca de Noé. Con la ayuda de una ingeniosa cucaracha y buena suerte, Vini y Tito se cuelan en el Arca y juntos intentarán evitar el enfrentamiento entre carnívoros y herbívoros. ¿Podrán estos talentosos polizones usar la música para romper la tensión y ayudar a todas las especies a convivir sin comerse unos a otros durante 40 días y 40 noches?",
       "Genre": [
         "Animacion",
-        "Comedia"
+        "Comedia",
+        "Musical"
       ],
       "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
-      "Trailer": "https://vudeo.ws/embed-70ykjrec80if.html",
+      "Trailer": "https://dood.wf/e/gvczwv3vmmlt",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Mo Gilligan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/i6heWKdRr6QJYO9VZ3ag2kFsE9H.jpg"
+        },
+        {
+          "Actor": "Simone Ashley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg"
+        },
+        {
+          "Actor": "Sophie Okonedo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fpqohSUUSs1hjc9aHo5x6ypDr5Y.jpg"
+        },
+        {
+          "Actor": "Zayn Malik",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nzCk09tN15NOMpKPoCwegcJnx3j.jpg"
+        },
+        {
+          "Actor": "Dylan Llewellyn",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1NAgIljZXDGwTrzKEQEIWNqGSfe.jpg"
+        },
+        {
+          "Actor": "Jeremy Swift",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+        },
+        {
+          "Actor": "Bill Nighy",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+        },
+        {
+          "Actor": "Tabitha Cross",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Christopher Jenkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/vAP7L1vMOhm7LArXGESmL7WsPD.jpg"
+        }
+      ],
+      "Description": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
+      "Genre": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkMGMyODItY2U4Mi00ODViLWIyMjgtNGE3NDM0MmQxZmFjXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 24min",
+      "Title": "Un Gato Con Suerte - 10 vidas (2024)",
+      "Trailer": "https://dood.wf/e/mxa6xt8kmz73",
       "Year": 2024
     }
   ],
@@ -7600,6 +8380,58 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://vidhideplus.com/v/7h7o2adbosdw",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Mo Gilligan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/i6heWKdRr6QJYO9VZ3ag2kFsE9H.jpg"
+        },
+        {
+          "Actor": "Simone Ashley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg"
+        },
+        {
+          "Actor": "Sophie Okonedo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fpqohSUUSs1hjc9aHo5x6ypDr5Y.jpg"
+        },
+        {
+          "Actor": "Zayn Malik",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nzCk09tN15NOMpKPoCwegcJnx3j.jpg"
+        },
+        {
+          "Actor": "Dylan Llewellyn",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1NAgIljZXDGwTrzKEQEIWNqGSfe.jpg"
+        },
+        {
+          "Actor": "Jeremy Swift",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+        },
+        {
+          "Actor": "Bill Nighy",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+        },
+        {
+          "Actor": "Tabitha Cross",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Christopher Jenkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/vAP7L1vMOhm7LArXGESmL7WsPD.jpg"
+        }
+      ],
+      "Description": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
+      "Genre": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkMGMyODItY2U4Mi00ODViLWIyMjgtNGE3NDM0MmQxZmFjXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 24min",
+      "Title": "Un Gato Con Suerte - 10 vidas (2024)",
+      "Trailer": "https://dood.wf/e/mxa6xt8kmz73",
       "Year": 2024
     }
   ],
@@ -8102,7 +8934,8 @@
       "Description": "Sigue esta autobiografía en la que Pharrell Williams muestra su proceso imaginativo y creativo utilizando Lego, a medida que construye modelos de Lego que representan su desarrollo artístico. Cada construcción refleja un hito creativo diferente.",
       "Genre": [
         "Animación",
-        "Documental"
+        "Documental",
+        "Musical"
       ],
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg",
       "Time": "1h 33m",
@@ -8112,6 +8945,57 @@
     }
   ],
   "Drama": [
+    {
+      "Casts": [
+        {
+          "Actor": "Marisa Abela",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+        },
+        {
+          "Actor": "Jack O'Connell",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "Actor": "Eddie Marsan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+          "Actor": "Lesley Manville",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+          "Actor": "Sam Buchanan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        },
+        {
+          "Actor": "Pete Lee-Wilson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6BIw7dhANZwzX2pSKMycC2X8n2h.jpg"
+        },
+        {
+          "Actor": "Thelma Euby",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Michael S. Siegel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6nIKEcxdbPXHmG8wo1Lj5mo3XWw.jpg"
+        },
+        {
+          "Actor": "Juliet Cowan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        }
+      ],
+      "Description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+      "Genre": [
+        "Historia",
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "Time": "2h 02min",
+      "Title": "Back to Black (2024)",
+      "Trailer": "https://nikaplayerr.com/v/aythlsubj5yx",
+      "Year": 2024
+    },
     {
       "Casts": [
         {
@@ -8140,6 +9024,56 @@
       "Time": "1h 25m",
       "Title": "Haikyu!! La batalla del basurero (2024)",
       "Trailer": "https://vidhideplus.com/v/0b412dy0rbpu",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jaime Lorente",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+        },
+        {
+          "Actor": "Alberto Ammann",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8jhuoxRvOTJFHmYh4kmCAZ8Mggj.jpg"
+        },
+        {
+          "Actor": "Alejandro Speitzer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fCxdLXXMwdppBAfnS90PAbQ1w0M.jpg"
+        },
+        {
+          "Actor": "Iván Pellicer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uhwAlJ5hbHri3TUmAno9NcOA1MV.jpg"
+        },
+        {
+          "Actor": "Pol Granch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifMnwVcQ7hlk9wigqHnHx43xkvY.jpg"
+        },
+        {
+          "Actor": "Javier Morgade",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg"
+        },
+        {
+          "Actor": "Albert Baró",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kGmqZn1ijhFoTMwnptbcLdl7qdv.jpg"
+        },
+        {
+          "Actor": "Vito Sanz",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yPgr3fd3PjekcMWCv77fLCKOgm8.jpg"
+        },
+        {
+          "Actor": "Eva Llorach",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+        }
+      ],
+      "Description": "Estamos en la España de mediados de los 80. Un grupo de amigos capitaneados por Xavi Font (Jaime Lorente), acaban de llegar a Ibiza persiguiendo su sueño de dedicarse a la moda. Allí les descubre el productor José Luís Gil (Alberto Ammann), un magnate de la industria musical que busca nuevos talentos para lanzar un grupo. Sin tener ni idea de cantar, el grupo inicia una carrera que les lleva de vivir como hippies en Ibiza, a llenar estadios en Latinoamérica y revolucionar de paso las discotecas de medio mundo. Crearon un nuevo estilo, fueron perseguidos por fans y ganaron millones… Aunque para ello tuvieron que sacrificar su libertad.",
+      "Genre": [
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef1yaVkpkX4rXv4P3MKpuQX0MZ.jpg",
+      "Time": "1h 44min",
+      "Title": "Disco, Ibiza, Locomía (2024)",
+      "Trailer": "https://nikaplayerr.com/v/268mmucgd9r9",
       "Year": 2024
     },
     {
@@ -8311,9 +9245,141 @@
       "Title": "Wicked (2024)",
       "Trailer": "https://streamwish.to/e/604yd25oaith",
       "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Letizia Toni",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yRPNO9rdmLXi8MLZKx3XMxYEFni.jpg"
+        },
+        {
+          "Actor": "Selene Caramazza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fm8MiYMRWuswuzbjdVlOvdCjnta.jpg"
+        },
+        {
+          "Actor": "Maurizio Lombardi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/irObmo0V04lDrJzt4ISlyYnyiVn.jpg"
+        },
+        {
+          "Actor": "Stefano Rossi Giordani",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xs395AMZtXEp8yBFUtKpaPFe4qP.jpg"
+        }
+      ],
+      "Description": "La historia del origen de una de las mayores estrellas del rock italiano, Gianna Nannini, que persiguió su sueño a pesar de los obstáculos de su familia y de la industria musical.",
+      "Genre": [
+        "Musical",
+        "Drama"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jqXeDH6dnwG9tqUMWHKkat2YpGk.jpg",
+      "Time": "1h 53m",
+      "Title": "Te llevo en el alma (2024)",
+      "Trailer": "https://nikaplayerr.com/v/lrvloymr91c0",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Kingsley Ben-Adir",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+        },
+        {
+          "Actor": "Lashana Lynch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        },
+        {
+          "Actor": "James Norton",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aZZWaiglevswXeny4fxYlSUjOzC.jpg"
+        },
+        {
+          "Actor": "Tosin Cole",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ezgqHhUm5I6zfe0tGvk29NsF5g7.jpg"
+        },
+        {
+          "Actor": "Umi Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/sWofAn489etQ3BBHjYODae8MFev.jpg"
+        },
+        {
+          "Actor": "Anthony Welsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uIqZvNHN2jw3rIkttRc179X1VjC.jpg"
+        },
+        {
+          "Actor": "Nia Ashi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7BoSs1aAu5EjG05Ykhb5r9AH924.jpg"
+        },
+        {
+          "Actor": "Aston Barrett Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rGr78L3p5OEVhCRPvw7wHX0L6Qx.jpg"
+        },
+        {
+          "Actor": "Anna-Sharé Blake",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        }
+      ],
+      "Description": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+      "Genre": [
+        "Drama",
+        "Historia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+      "Time": "1h 45min",
+      "Title": "Bob Marley: One Love (2024)",
+      "Trailer": "https://nikaplayerr.com/v/ylgtghs8b7ss",
+      "Year": 2024
     }
   ],
   "Romance": [
+    {
+      "Casts": [
+        {
+          "Actor": "Harry Connick Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+        },
+        {
+          "Actor": "Agni Scott",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
+        },
+        {
+          "Actor": "Ali Fumiko Whitney",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lNDemMM9B9rdmfXmClSWOuBQLij.jpg"
+        },
+        {
+          "Actor": "Clarence Smith",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7HhMsotc0XXt9r0XGt6dwRCpsGM.jpg"
+        },
+        {
+          "Actor": "Athina Roditou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mmb5MWIXYFlXS5sIqgoTWeaUbRE.jpg"
+        },
+        {
+          "Actor": "Antonis Katsaris",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pWhJPp4BtEtTPsPwt9BxGx9mgbm.jpg"
+        },
+        {
+          "Actor": "Andreas Phylactou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rFh3Al2IugfKmraqIJJvAaCnxv9.jpg"
+        },
+        {
+          "Actor": "Ioanna Siafkalli",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Yiola Klitou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7SIFV14cOdeTWqERR3YzwUBuqFf.jpg"
+        }
+      ],
+      "Description": "Después de un álbum de regreso fallido, la estrella de rock John Allman escapa a una isla de ensueño en el Mediterráneo, solo para descubrir que su nueva casa junto a un acantilado tiene una desafortunada notoriedad que atrae a visitantes no deseados y a un viejo amor.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg",
+      "Time": "1h 34min",
+      "Title": "Al borde del abismo (2024)",
+      "Trailer": "https://nikaplayerr.com/v/a6jzpijluxxy",
+      "Year": 2024
+    },
     {
       "Casts": [
         {
@@ -8364,9 +9430,122 @@
       "Title": "Wicked (2024)",
       "Trailer": "https://streamwish.to/e/604yd25oaith",
       "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anne Hathaway",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kRYxBuUtN3vNz5pLfqCf32ZYlw2.jpg"
+        },
+        {
+          "Actor": "Nicholas Galitzine",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+        },
+        {
+          "Actor": "Ella Rubin",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        },
+        {
+          "Actor": "Annie Mumolo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4U943oEvfDg8Tuyjl9biLgzijBf.jpg"
+        }
+      ],
+      "Description": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+      "Time": "1h 30m",
+      "Title": "La idea de tenerte (2024)",
+      "Trailer": "https://nikaplayerr.com/v/4698sqd28et8",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rudy Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7jP4syZQ4ccpd8H2HvyubRLHQcI.jpg"
+        },
+        {
+          "Actor": "Camila Mendes",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+        },
+        {
+          "Actor": "Francesca Reale",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pu3fDpxNJXpSe9EgP10JIwR4j4a.jpg"
+        },
+        {
+          "Actor": "Maria Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3rLbek1Y4KwhqkoBnux3qAvRas1.jpg"
+        },
+        {
+          "Actor": "JB Smoove",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+        },
+        {
+          "Actor": "Andy Grotelueschen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hYlCG3IJtXZ6ajqwmEQePwMwZde.jpg"
+        },
+        {
+          "Actor": "Camila Senna",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/59EksxnbzMO3ZxPy0Z5K7CWpfxB.jpg"
+        },
+        {
+          "Actor": "Regina Schneider",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lBgb9PtbM8WKh6bPgV8gNqflikU.jpg"
+        },
+        {
+          "Actor": "Gregory Jones",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/arukbRBUpgMFzmq3XHnAgieHyd9.jpg"
+        }
+      ],
+      "Description": "Sigue a un joven muy apasionado por la música. Tiene que aceptar un futuro incierto mientras equilibra su vida amorosa, su familia y la cultura brasileña en Nueva Jersey.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+      "Time": "1h 31min",
+      "Title": "Música (2024)",
+      "Trailer": "https://nikaplayerr.com/v/5kl3by1h83gk",
+      "Year": 2024
     }
   ],
   "Familia": [
+    {
+      "Casts": [
+        {
+          "Actor": "Dwayne Johnson",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Auli'i Cravalho",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
+        },
+        {
+          "Actor": "Alan Tudyk",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
+        },
+        {
+          "Actor": "Nicole Scherzinger",
+          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
+        }
+      ],
+      "Description": "Tras recibir una inesperada llamada de sus antepasados, Vaiana debe viajar a los lejanos mares de Oceanía y adentrarse en peligrosas aguas perdidas para vivir una aventura sin precedentes.",
+      "Genre": [
+        "Animación",
+        "Aventura",
+        "Familia"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 30m",
+      "Title": "Moana 2 (2024)",
+      "Trailer": "https://playerwish.com/e/44f5uwdj9owi",
+      "Year": 2024
+    },
     {
       "Casts": [
         {
@@ -9355,6 +10534,58 @@
       "Title": "Los Casagrande: La película (2024)",
       "Trailer": "https://vidhideplus.com/v/2brtabho3ouy",
       "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Mo Gilligan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/i6heWKdRr6QJYO9VZ3ag2kFsE9H.jpg"
+        },
+        {
+          "Actor": "Simone Ashley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/NoWUSMGBrQrX23XK7eVjHlfaqY.jpg"
+        },
+        {
+          "Actor": "Sophie Okonedo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fpqohSUUSs1hjc9aHo5x6ypDr5Y.jpg"
+        },
+        {
+          "Actor": "Zayn Malik",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nzCk09tN15NOMpKPoCwegcJnx3j.jpg"
+        },
+        {
+          "Actor": "Dylan Llewellyn",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1NAgIljZXDGwTrzKEQEIWNqGSfe.jpg"
+        },
+        {
+          "Actor": "Jeremy Swift",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+        },
+        {
+          "Actor": "Bill Nighy",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+        },
+        {
+          "Actor": "Tabitha Cross",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Christopher Jenkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/vAP7L1vMOhm7LArXGESmL7WsPD.jpg"
+        }
+      ],
+      "Description": "Beckett es un gato mimado y egoísta que da por sentada la suerte que le ha tocado. Sin embargo, todo eso está a punto de cambiar cuando pierde por descuido su novena vida. Ante lo inevitable, suplica que le permitan volver a su vida perfecta.",
+      "Genre": [
+        "Animación",
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkMGMyODItY2U4Mi00ODViLWIyMjgtNGE3NDM0MmQxZmFjXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 24min",
+      "Title": "Un Gato Con Suerte - 10 vidas (2024)",
+      "Trailer": "https://dood.wf/e/mxa6xt8kmz73",
+      "Year": 2024
     }
   ],
   "Animes": [
@@ -9362,6 +10593,573 @@
   "Guerra": [
   ],
   "Historia": [
+    {
+      "Casts": [
+        {
+          "Actor": "Marisa Abela",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+        },
+        {
+          "Actor": "Jack O'Connell",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "Actor": "Eddie Marsan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+          "Actor": "Lesley Manville",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+          "Actor": "Sam Buchanan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        },
+        {
+          "Actor": "Pete Lee-Wilson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6BIw7dhANZwzX2pSKMycC2X8n2h.jpg"
+        },
+        {
+          "Actor": "Thelma Euby",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Michael S. Siegel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6nIKEcxdbPXHmG8wo1Lj5mo3XWw.jpg"
+        },
+        {
+          "Actor": "Juliet Cowan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        }
+      ],
+      "Description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+      "Genre": [
+        "Historia",
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "Time": "2h 02min",
+      "Title": "Back to Black (2024)",
+      "Trailer": "https://nikaplayerr.com/v/aythlsubj5yx",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Kingsley Ben-Adir",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+        },
+        {
+          "Actor": "Lashana Lynch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        },
+        {
+          "Actor": "James Norton",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aZZWaiglevswXeny4fxYlSUjOzC.jpg"
+        },
+        {
+          "Actor": "Tosin Cole",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ezgqHhUm5I6zfe0tGvk29NsF5g7.jpg"
+        },
+        {
+          "Actor": "Umi Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/sWofAn489etQ3BBHjYODae8MFev.jpg"
+        },
+        {
+          "Actor": "Anthony Welsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uIqZvNHN2jw3rIkttRc179X1VjC.jpg"
+        },
+        {
+          "Actor": "Nia Ashi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7BoSs1aAu5EjG05Ykhb5r9AH924.jpg"
+        },
+        {
+          "Actor": "Aston Barrett Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rGr78L3p5OEVhCRPvw7wHX0L6Qx.jpg"
+        },
+        {
+          "Actor": "Anna-Sharé Blake",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        }
+      ],
+      "Description": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+      "Genre": [
+        "Drama",
+        "Historia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+      "Time": "1h 45min",
+      "Title": "Bob Marley: One Love (2024)",
+      "Trailer": "https://nikaplayerr.com/v/ylgtghs8b7ss",
+      "Year": 2024
+    }
+  ],
+  "Musical": [
+    {
+      "Casts": [
+        {
+          "Actor": "Pharrel Williams",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3VdAd4rnxWFvcnBL7aEUVWxEH6V.jpg"
+        },
+        {
+          "Actor": "Snoop Dogg",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/V8eEB5ybSxSTluFcBZkVgT73sv.jpg"
+        },
+        {
+          "Actor": "Jay Z",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rqyNr2CSOjTniW1VinNNvFBYz9I.jpg"
+        },
+        {
+          "Actor": "Justin Timberlake",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fNis6ROoreHGGLvtA75CmnUHviI.jpg"
+        },
+        {
+          "Actor": "Timbaland",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5BdSJzxnajEWsME9onM9KScgqGY.jpg"
+        },
+        {
+          "Actor": "Kendrick Lamar",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/e7aspyQQfmdkUoR3gqPy7hbtDnk.jpg"
+        },
+        {
+          "Actor": "Gwen Stefani",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/67YOKadC2UyMemUz8a6N5T1onq4.jpg"
+        },
+        {
+          "Actor": "Chad Hugo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kfQuMaaBaRV23l4OdOBsvl1XLv1.jpg"
+        }
+      ],
+      "Description": "Sigue esta autobiografía en la que Pharrell Williams muestra su proceso imaginativo y creativo utilizando Lego, a medida que construye modelos de Lego que representan su desarrollo artístico. Cada construcción refleja un hito creativo diferente.",
+      "Genre": [
+        "Animación",
+        "Documental",
+        "Musical"
+      ],
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg",
+      "Time": "1h 33m",
+      "Title": "Piece by Piece (2024)",
+      "Trailer": "https://vidhideplus.com/v/ou8m0300ysjs",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rodrigo Santoro",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+        },
+        {
+          "Actor": "Alice Braga",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ykVmsm3For9dCBfWLRtTL0EU24b.jpg"
+        },
+        {
+          "Actor": "Marcelo Adnet",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hCaB1q6CypBdQH1A7xuSehTfUdx.jpg"
+        },
+        {
+          "Actor": "Keith Silverstein",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eVdUcExD9N57knSIa8kmoSnVibd.jpg"
+        },
+        {
+          "Actor": "Ian James Corlett",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rQ6qKPg8Tzt9dZPuQpzbnGJJCEY.jpg"
+        },
+        {
+          "Actor": "Luis Bermudez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/cn1yzMsCrUatAqjDEIxTb8h38X9.jpg"
+        },
+        {
+          "Actor": "Laila McCam",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Debra Wilson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg"
+        },
+        {
+          "Actor": "Christopher Corey Smith",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zzDiDP7odJy9ntbCPTT6nBFgABr.jpg"
+        }
+      ],
+      "Description": "Dos ratones: Vini, un carismático poeta con un terrible miedo escénico, y Tito, un talentoso y encantador guitarrista. Cuando llega el diluvio, solo se permite que un macho y una hembra de cada especie suban al Arca de Noé. Con la ayuda de una ingeniosa cucaracha y buena suerte, Vini y Tito se cuelan en el Arca y juntos intentarán evitar el enfrentamiento entre carnívoros y herbívoros. ¿Podrán estos talentosos polizones usar la música para romper la tensión y ayudar a todas las especies a convivir sin comerse unos a otros durante 40 días y 40 noches?",
+      "Genre": [
+        "Animacion",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6wH1kowr6uNFJ12CVKsRHzC0cm.jpg",
+      "Time": "1h 35min",
+      "Title": "El Arca de Noé (2024)",
+      "Trailer": "https://dood.wf/e/gvczwv3vmmlt",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Luis Gerardo Méndez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fFNPFTVHwySU8d7Q1MORCd72eZX.jpg"
+        },
+        {
+          "Actor": "Karla Souza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k97X2Si4mUKlmL0fSO38x5xaNMb.jpg"
+        },
+        {
+          "Actor": "Gabriel Nuncio",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/q5KePBOpRwEPneBuMQgTjSjYLUQ.jpg"
+        },
+        {
+          "Actor": "Luis Rodriguez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nIMtyJBtfWMdnN6yPHfdKIDNin8.jpg"
+        },
+        {
+          "Actor": "Fernando Bonilla",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/wVahFHigW6rddl02ZJel6G2rtdV.jpg"
+        },
+        {
+          "Actor": "Daniela Vega",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pqiWEvi0iwtkWMq2060jtrckxpS.jpg"
+        },
+        {
+          "Actor": "Mónica del Carmen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+        },
+        {
+          "Actor": "Joaquin Ferreira",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dGpDGDPMtvsZpc4ZMMgjy1DOGpU.jpg"
+        },
+        {
+          "Actor": "Germán Bracco",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ccBF4wazfF5rZ94U2SeiJ8jgoJZ.jpg"
+        }
+      ],
+      "Description": "Veinte años después de encabezar las listas de éxitos, los Technoboys se reúnen para recuperar el trono del pop, pero deben luchar contra grupos más nuevos en un mundo musical que ha cambiado. El cantante tiene motivos ocultos para volver.",
+      "Genre": [
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWyjJnGHMb4ov5TZZ4rMnBL5fmH.jpg",
+      "Time": "1h 49min",
+      "Title": "Technoboys (2024)",
+      "Trailer": "https://hlsflast.com/e/co1txcv5fedq",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jaime Lorente",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+        },
+        {
+          "Actor": "Alberto Ammann",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8jhuoxRvOTJFHmYh4kmCAZ8Mggj.jpg"
+        },
+        {
+          "Actor": "Alejandro Speitzer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fCxdLXXMwdppBAfnS90PAbQ1w0M.jpg"
+        },
+        {
+          "Actor": "Iván Pellicer",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uhwAlJ5hbHri3TUmAno9NcOA1MV.jpg"
+        },
+        {
+          "Actor": "Pol Granch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifMnwVcQ7hlk9wigqHnHx43xkvY.jpg"
+        },
+        {
+          "Actor": "Javier Morgade",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hcDV10bTZlm1rTi0NRhoGIpdicw.jpg"
+        },
+        {
+          "Actor": "Albert Baró",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kGmqZn1ijhFoTMwnptbcLdl7qdv.jpg"
+        },
+        {
+          "Actor": "Vito Sanz",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yPgr3fd3PjekcMWCv77fLCKOgm8.jpg"
+        },
+        {
+          "Actor": "Eva Llorach",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8w4O95cpFXkOc9D5Jq0aDrmIUKu.jpg"
+        }
+      ],
+      "Description": "Estamos en la España de mediados de los 80. Un grupo de amigos capitaneados por Xavi Font (Jaime Lorente), acaban de llegar a Ibiza persiguiendo su sueño de dedicarse a la moda. Allí les descubre el productor José Luís Gil (Alberto Ammann), un magnate de la industria musical que busca nuevos talentos para lanzar un grupo. Sin tener ni idea de cantar, el grupo inicia una carrera que les lleva de vivir como hippies en Ibiza, a llenar estadios en Latinoamérica y revolucionar de paso las discotecas de medio mundo. Crearon un nuevo estilo, fueron perseguidos por fans y ganaron millones… Aunque para ello tuvieron que sacrificar su libertad.",
+      "Genre": [
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef1yaVkpkX4rXv4P3MKpuQX0MZ.jpg",
+      "Time": "1h 44min",
+      "Title": "Disco, Ibiza, Locomía (2024)",
+      "Trailer": "https://nikaplayerr.com/v/268mmucgd9r9",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Harry Connick Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+        },
+        {
+          "Actor": "Agni Scott",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
+        },
+        {
+          "Actor": "Ali Fumiko Whitney",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lNDemMM9B9rdmfXmClSWOuBQLij.jpg"
+        },
+        {
+          "Actor": "Clarence Smith",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7HhMsotc0XXt9r0XGt6dwRCpsGM.jpg"
+        },
+        {
+          "Actor": "Athina Roditou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/mmb5MWIXYFlXS5sIqgoTWeaUbRE.jpg"
+        },
+        {
+          "Actor": "Antonis Katsaris",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pWhJPp4BtEtTPsPwt9BxGx9mgbm.jpg"
+        },
+        {
+          "Actor": "Andreas Phylactou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rFh3Al2IugfKmraqIJJvAaCnxv9.jpg"
+        },
+        {
+          "Actor": "Ioanna Siafkalli",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Yiola Klitou",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7SIFV14cOdeTWqERR3YzwUBuqFf.jpg"
+        }
+      ],
+      "Description": "Después de un álbum de regreso fallido, la estrella de rock John Allman escapa a una isla de ensueño en el Mediterráneo, solo para descubrir que su nueva casa junto a un acantilado tiene una desafortunada notoriedad que atrae a visitantes no deseados y a un viejo amor.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg",
+      "Time": "1h 34min",
+      "Title": "Al borde del abismo (2024)",
+      "Trailer": "https://nikaplayerr.com/v/a6jzpijluxxy",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Letizia Toni",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yRPNO9rdmLXi8MLZKx3XMxYEFni.jpg"
+        },
+        {
+          "Actor": "Selene Caramazza",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fm8MiYMRWuswuzbjdVlOvdCjnta.jpg"
+        },
+        {
+          "Actor": "Maurizio Lombardi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/irObmo0V04lDrJzt4ISlyYnyiVn.jpg"
+        },
+        {
+          "Actor": "Stefano Rossi Giordani",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xs395AMZtXEp8yBFUtKpaPFe4qP.jpg"
+        }
+      ],
+      "Description": "La historia del origen de una de las mayores estrellas del rock italiano, Gianna Nannini, que persiguió su sueño a pesar de los obstáculos de su familia y de la industria musical.",
+      "Genre": [
+        "Musical",
+        "Drama"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jqXeDH6dnwG9tqUMWHKkat2YpGk.jpg",
+      "Time": "1h 53m",
+      "Title": "Te llevo en el alma (2024)",
+      "Trailer": "https://nikaplayerr.com/v/lrvloymr91c0",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Marisa Abela",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+        },
+        {
+          "Actor": "Jack O'Connell",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        },
+        {
+          "Actor": "Eddie Marsan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+        },
+        {
+          "Actor": "Lesley Manville",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+        },
+        {
+          "Actor": "Sam Buchanan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        },
+        {
+          "Actor": "Pete Lee-Wilson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6BIw7dhANZwzX2pSKMycC2X8n2h.jpg"
+        },
+        {
+          "Actor": "Thelma Euby",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Michael S. Siegel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6nIKEcxdbPXHmG8wo1Lj5mo3XWw.jpg"
+        },
+        {
+          "Actor": "Juliet Cowan",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8zBYU2fqciM8kV6NAg1R6y6JHoh.jpg"
+        }
+      ],
+      "Description": "Biopic que narrará la vida personal y profesional de la cantante y compositora Amy Winehouse, que comenzó como cantante de jazz para convertirse en una superestrella mundial de la música ganadora de varios premios Grammy. Su vida se truncó en 2011 a los 27 años provocada por una vida llena de consumo y abuso de alcohol y drogas.",
+      "Genre": [
+        "Historia",
+        "Drama",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "Time": "2h 02min",
+      "Title": "Back to Black (2024)",
+      "Trailer": "https://nikaplayerr.com/v/aythlsubj5yx",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anne Hathaway",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/kRYxBuUtN3vNz5pLfqCf32ZYlw2.jpg"
+        },
+        {
+          "Actor": "Nicholas Galitzine",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+        },
+        {
+          "Actor": "Ella Rubin",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        },
+        {
+          "Actor": "Annie Mumolo",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4U943oEvfDg8Tuyjl9biLgzijBf.jpg"
+        }
+      ],
+      "Description": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+      "Time": "1h 30m",
+      "Title": "La idea de tenerte (2024)",
+      "Trailer": "https://nikaplayerr.com/v/4698sqd28et8",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Kingsley Ben-Adir",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+        },
+        {
+          "Actor": "Lashana Lynch",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        },
+        {
+          "Actor": "James Norton",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aZZWaiglevswXeny4fxYlSUjOzC.jpg"
+        },
+        {
+          "Actor": "Tosin Cole",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ezgqHhUm5I6zfe0tGvk29NsF5g7.jpg"
+        },
+        {
+          "Actor": "Umi Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/sWofAn489etQ3BBHjYODae8MFev.jpg"
+        },
+        {
+          "Actor": "Anthony Welsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uIqZvNHN2jw3rIkttRc179X1VjC.jpg"
+        },
+        {
+          "Actor": "Nia Ashi",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7BoSs1aAu5EjG05Ykhb5r9AH924.jpg"
+        },
+        {
+          "Actor": "Aston Barrett Jr.",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rGr78L3p5OEVhCRPvw7wHX0L6Qx.jpg"
+        },
+        {
+          "Actor": "Anna-Sharé Blake",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        }
+      ],
+      "Description": "Biopic sobre Bob Marley dirigido por Reinaldo Marcus Green (El método Williams) . Un tributo a la que ha sido la mayor leyenda del reggae y que falleció con tan solo 36 años, a causa de un cáncer de piel, en 1981.",
+      "Genre": [
+        "Drama",
+        "Historia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+      "Time": "1h 45min",
+      "Title": "Bob Marley: One Love (2024)",
+      "Trailer": "https://nikaplayerr.com/v/ylgtghs8b7ss",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rudy Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/7jP4syZQ4ccpd8H2HvyubRLHQcI.jpg"
+        },
+        {
+          "Actor": "Camila Mendes",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+        },
+        {
+          "Actor": "Francesca Reale",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/pu3fDpxNJXpSe9EgP10JIwR4j4a.jpg"
+        },
+        {
+          "Actor": "Maria Mancuso",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3rLbek1Y4KwhqkoBnux3qAvRas1.jpg"
+        },
+        {
+          "Actor": "JB Smoove",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+        },
+        {
+          "Actor": "Andy Grotelueschen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hYlCG3IJtXZ6ajqwmEQePwMwZde.jpg"
+        },
+        {
+          "Actor": "Camila Senna",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/59EksxnbzMO3ZxPy0Z5K7CWpfxB.jpg"
+        },
+        {
+          "Actor": "Regina Schneider",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lBgb9PtbM8WKh6bPgV8gNqflikU.jpg"
+        },
+        {
+          "Actor": "Gregory Jones",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/arukbRBUpgMFzmq3XHnAgieHyd9.jpg"
+        }
+      ],
+      "Description": "Sigue a un joven muy apasionado por la música. Tiene que aceptar un futuro incierto mientras equilibra su vida amorosa, su familia y la cultura brasileña en Nueva Jersey.",
+      "Genre": [
+        "Romance",
+        "Comedia",
+        "Musical"
+      ],
+      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+      "Time": "1h 31min",
+      "Title": "Música (2024)",
+      "Trailer": "https://nikaplayerr.com/v/5kl3by1h83gk",
+      "Year": 2024
+    }
   ],
   "Peliculatelevision": [
     {
