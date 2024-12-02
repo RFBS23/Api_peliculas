@@ -4,10 +4,38 @@
 - Node JS.
 - Json Server.
 
-### secciones
+### Generos
 - Banner.
+- Estrenos
+- Todas.
+- Recientes.
 - Comedia.
+- Accion.
+- Aventura.
+- Terror.
+- Suspenso.
+- Crimen.
 - Animación.
+- Fantasia.
+- Ciencia ficcion.
+- Documental.
+- Drama.
+- Romance.
+- Familia.
+- Animes.
+- Guerra.
+- Historia.
+- Musical.
+- Peliculas Tv.
+- Misterio.
+
+### Secciones
+- inio
+- Favoritos
+- Series
+- Info
+
+### proximas Integraciones Tv local en vivo.
 
 puedes visualizar la api haciendo click aqui -> 
 [`ver Json`](https://api-peliculas-fabridev.vercel.app/data.json)
