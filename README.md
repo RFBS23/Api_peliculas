@@ -36,6 +36,13 @@
 - Info
 
 ### proximas Integraciones Tv local en vivo.
+- America Tv
+- Latina
+- TvPeru
+- ATV, ATV+, ATV Sur
+- Canal IPE
+- Panamericana TV
+- Exitosa
 
 puedes visualizar la api haciendo click aqui -> 
 [`ver Json`](https://api-peliculas-fabridev.vercel.app/data.json)

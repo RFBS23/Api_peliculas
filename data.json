@@ -11301,5 +11301,52 @@
       "Trailer": "https://vidhideplus.com/v/x3skunxizjh9",
       "Year": 2024
     }
+  ],
+  "AmericaTV": [
+    {
+      "Poster": "https://i.ibb.co/fNfBdhc/1-Bn-WL-SV-400x400.jpg",
+      "Title": "tv Perú",
+      "Trailer": "https://irtp-player.iblups.com/tvperuhd"
+    },
+    {
+      "Poster": "https://i.ibb.co/BwVr1Yc/Nota-de-prensa-1-Logo-Canal-IPe.png",
+      "Title": "Canal ipe",
+      "Trailer": "https://irtp-player.iblups.com/canalipe"
+    },
+    {
+      "Poster": "https://i.ibb.co/Bnsgk2L/atv.jpg",
+      "Title": "ATV",
+      "Trailer": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+    },
+	{
+      "Poster": "https://i.imgur.com/8Hvk59N.png",
+      "Title": "Latina",
+      "Trailer": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+    },
+    {
+      "Poster": "https://i.ibb.co/zR5XCWj/images.png",
+      "Title": "America Television",
+      "Trailer": "https://player.twitch.tv/?channel=americatv_envivo&muted=false&parent=americatv_envivo"
+    },
+    {
+      "Poster": "https://i.ibb.co/LvdnczF/panamericana.png",
+      "Title": "Panamericana TV",
+      "Trailer": "https://player.twitch.tv/?channel=panamericanatvpe&muted=false&parent=panamericana.pe"
+    },
+    {
+      "Poster": "https://i.ibb.co/fY74j4v/exitosa.png",
+      "Title": "Exitosa",
+      "Trailer": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
+    },
+    {
+      "Poster": "https://i.ibb.co/1JXPpqW/atvsur.jpg",
+      "Title": "ATV Sur",
+      "Trailer": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8"
+    },
+    {
+      "Poster": "https://i.ibb.co/Bnsgk2L/atv.jpg",
+      "Title": "ATV+",
+      "Trailer": "https://d1svme839xkbsn.cloudfront.net/index.m3u8"
+    }
   ]
 }
