@@ -1,44 +1,6 @@
 {
   "Banners": [
     {
-      "image": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
-      "name": "Moana 2 (2024)",
-      "genre": "Aventura",
-      "year": "27/11/2024",
-      "age": "+ 09",
-      "time": "1h 30m",
-
-      "Casts": [
-        {
-          "Actor": "Dwayne Johnson",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Auli'i Cravalho",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTlmZjhmN2ItOGQyOC00NWRmLTlmYjAtNzQ1ODdiNmIyOTExXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Alan Tudyk",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_.jpg"
-        },
-        {
-          "Actor": "Nicole Scherzinger",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMGI3ZDYtN2JkZC00MWM1LTk5YjYtN2ViODZhY2RiMTYxXkEyXkFqcGc@._V1_.jpg"
-        }
-      ],
-      "Description": "Moana 2 es una próxima película estadounidense de animación, fantasía, acción y aventuras producida por Walt Disney Animation Studios y lanzada por Walt Disney Pictures. Es la secuela de la película Moana.",
-      "Genre": [
-        "Animación",
-        "Aventura",
-        "Familia"
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
-      "Time": "0h 00m",
-      "Title": "Moana 2 (2024)",
-      "Trailer": "https://www.youtube.com/watch?v=t3C8TrVo0zo",
-      "Year": 2024
-    },
-    {
       "image": "https://m.media-amazon.com/images/M/MV5BNjRiYzIxMjItNWUxNi00NDc5LWJjMzEtZmRkY2EwOTJhZjkyXkEyXkFqcGc@._V1_.jpg",
       "name": "Elío (2025)",
       "genre": "Animación",
@@ -83,49 +45,6 @@
       "Time": "0h 00m",
       "Title": "Elío (2025)",
       "Trailer": "https://www.youtube.com/watch?v=iKNgMdjAq7w",
-      "Year": 2025
-    },
-    {
-      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
-      "name": "Paddington en Perú (2025)",
-      "genre": "Aventura",
-      "year": "16/01/2025",
-      "age": "+ Todos",
-      "time": "Estreno 2025",
-
-      "Casts": [
-        {
-          "Actor": "Ben Whishaw",
-          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
-        },
-        {
-          "Actor": "Hugh Bonneville",
-          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
-        },
-        {
-          "Actor": "Emily Mortimer",
-          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eEo8N3GW9L3woUH50Mn7mEAG0Z7.jpg"
-        },
-        {
-          "Actor": "Antonio Banderas",
-          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5BmWgSeW8Rg6hkisEeqLM5P0OBZ.jpg"
-        },
-        {
-          "Actor": "Olivia Colman",
-          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg"
-        }
-      ],
-      "Description": "Paddington viaja a Perú para visitar a su querida tía Lucy, que ahora reside en el Hogar de Osos Jubilados. Con la familia Brown a cuestas, se desata una emocionante aventura cuando un misterio los sumerge en un viaje inesperado a través de la selva amazónica y hasta las cimas de las montañas de Perú..",
-      "Genre": [
-        "Aventura",
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ],
-      "Poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
-      "Time": "0h 00m",
-      "Title": "Paddington en Perú (2025)",
-      "Trailer": "https://www.youtube.com/watch?v=UwougaUQxYU",
       "Year": 2025
     },
     {
@@ -217,8 +136,182 @@
     }
   ],
   "Estrenos": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    }
   ],
   "Todas": [
+    {
+      "Casts": [
+        {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -2572,8 +2665,131 @@
     }
   ],
   "Recientes": [
-    ],
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    }
+  ],
   "Comedia": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -3687,6 +3903,57 @@
     {
       "Casts": [
         {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
           "Actor": "Yoshimasa Hosoya",
           "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qCWYkY4Pp4bMbvKu7mJK6uD6TpU.jpg"
         },
@@ -4219,6 +4486,42 @@
     }
   ],
   "Aventura": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -4957,7 +5260,57 @@
     }
   ],
   "Suspenso": [
-
+    {
+      "Casts": [
+        {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    }
   ],
   "Crimen": [
     {
@@ -6773,6 +7126,42 @@
     {
       "Casts": [
         {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
           "Actor": "Yoshimasa Hosoya",
           "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qCWYkY4Pp4bMbvKu7mJK6uD6TpU.jpg"
         },
@@ -7223,6 +7612,57 @@
     }
   ],
   "Cienciaficcion": [
+    {
+      "Casts": [
+        {
+          "Actor": "Anthony Mackie",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        },
+        {
+          "Actor": "Harrison Ford",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+        },
+        {
+          "Actor": "Danny Ramirez",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+        },
+        {
+          "Actor": "Shira Haas",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/5mfd9yKnbo2ZjU42vmqVMgvTJ8r.jpg"
+        },
+        {
+          "Actor": "Tim Blake Nelson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+        },
+        {
+          "Actor": "Carl Lumbly",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+        },
+        {
+          "Actor": "Giancarlo Esposito",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+        },
+        {
+          "Actor": "Liv Tyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+        },
+        {
+          "Actor": "Xosha Roquemore",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/k596seeX26xKN8bZ3Uir9zFJ2gS.jpg"
+        }
+      ],
+      "Description": "Tras reunirse con el recién elegido presidente de los EE. UU., Thaddeus Ross, Sam se encuentra en medio de un incidente internacional. Debe descubrir el motivo que se esconde tras un perverso complot global, antes de que su verdadero artífice enfurezca al mundo entero.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+      "Genre": [
+        "Acción",
+        "Suspenso",
+        "Ciencia Ficcion"
+      ],
+      "Time": "1h 59m",
+      "Title": "Capitán América: Brave New World",
+      "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -8300,6 +8740,42 @@
     }
   ],
   "Familia": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jason Momoa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+        },
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        },
+        {
+          "Actor": "Sebastian Eugene Hansen",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+        },
+        {
+          "Actor": "Emma Myers",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
+        },
+        {
+          "Actor": "Danielle Brooks",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dEonf59ukDW8LaN7vwj8WMmXrXf.jpg"
+        }
+      ],
+      "Description": "Henry, Natalie, Dawn y Garrett, cuatro inadaptados, son arrastrados a un misterioso portal hacia el extraño y cúbico mundo principal. Para volver a casa, tendrán que dominar este mundo con la ayuda de un artesano inesperado y experto llamado, Steve, mientras se embarcan en una búsqueda mágica.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "Genre": [
+        "Familia",
+        "Comedia",
+        "Aventura",
+        "Fantasia"
+      ],
+      "Time": "1h 41m",
+      "Title": "Una película de Minecraft",
+      "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -10084,44 +10560,6 @@
       "Time": "2h 09m",
       "Title": "Smile 2",
       "Trailer": "https://vidhideplus.com/v/x3skunxizjh9",
-      "Year": 2024
-    },
-    {
-      "Casts": [
-        {
-          "Actor": "Naomi Scott",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMmQ4ZWJmMjQtOGZkMC00ZDY0LTlkNjgtN2I0ZjIyOGE0ODQ5XkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Lukas Gage",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNzA3MjFlM2EtZTliYi00NDQ1LWJlY2QtNmIzM2Q4N2JhMThhXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Peter Jacobson",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMmI3ZjYwM2EtYjJkYi00MmExLTkyYzEtNWJjMGFkMDllODNiXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Ray Nicholson",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNDNjMDZlNmMtYjViZi00YmI0LWE2MTgtMDg4MThlZGY4YzgxXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Dylan Gelula",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNThkYWFiOTQtYjAxMi00Y2ZlLTkzNmEtZDM3NjkwOTM0MzA1XkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Raúl Castillo",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BNDI4NzdlNmMtYTcxNi00YThlLTg4MWMtOWU5ZGZjY2ViNzZhXkEyXkFqcGc@._V1_.jpg"
-        }
-      ],
-      "Description": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. Secuela del exitoso film de terror 'Smile' (2022).",
-      "Genre": [
-        "Terror",
-        "Misterio"
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3ZWU1NzAtNDQyMS00NmU3LWFhYzQtMzU3MGE2ZmQxMjlkXkEyXkFqcGc@._V1_.jpg",
-      "Time": "2h 09m",
-      "Title": "Smile 2",
-      "Trailer": "https://cv9fqnu812v.premilkyway.com/hls2/01/05227/3kwugtogncko_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=j6kaRA-8FZMj8t1wbE6OJFrK_kpHvUQ1Vh7g_kuCF8Q&s=1744610529&e=129600&f=26137622&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
       "Year": 2024
     }
   ],
