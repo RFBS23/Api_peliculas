@@ -1,141 +1,180 @@
 {
   "Banners": [
     {
+      "image": "https://www.themoviedb.org/t/p/w1280/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg",
+      "name": "Thunderbolts*",
+      "genre": "Acción",
+      "year": "01/05/2025",
+      "age": "+ 13",
+      "time": "Estreno 2025",
+      "Trailer": "https://www.youtube.com/watch?v=IGDI59eoY5E"
+    },
+    {
+      "image": "https://www.themoviedb.org/t/p/w1280/COzWKbKbHGsOM7HjWuYrUrlQ8r.jpg",
+      "name": "Lilo y Stitch",
+      "genre": "Familia",
+      "year": "22/05/2025",
+      "age": "+ todos",
+      "time": "Estreno 2025",
+      "Trailer": "https://www.youtube.com/watch?v=70VVF4zX-6o"
+    },
+    {
       "image": "https://m.media-amazon.com/images/M/MV5BNjRiYzIxMjItNWUxNi00NDc5LWJjMzEtZmRkY2EwOTJhZjkyXkEyXkFqcGc@._V1_.jpg",
-      "name": "Elío (2025)",
+      "name": "Elío",
       "genre": "Animación",
       "year": "13/06/2025",
       "age": "+ 02",
       "time": "Estreno 2025",
-
-      "Casts": [
-        {
-          "Actor": "Yonas Kibreab",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BM2IzMzc1ZDUtNzYwYi00NDE0LWE5MTktNDZkNDUzZjk3MmZkXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Zoe Saldaña",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Brad Garrett",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg"
-        },
-        {
-          "Actor": "Jameela Jamil",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjA0NDI4OTEwMl5BMl5BanBnXkFtZTgwNDM4NDg4OTE@._V1_.jpg"
-        },
-        {
-          "Actor": "Shirley Henderson",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNjAyNTY0M15BMl5BanBnXkFtZTYwNzMzNTMz._V1_.jpg"
-        },
-        {
-          "Actor": "Remy Edgerly",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
-        }
-      ],
-      "Description": "Elio, un fanático del espacio con una imaginación activa, se encuentra en una desventura cósmica en la que debe formar nuevos vínculos con formas de vida extraterrestres, navegar por una crisis de proporciones intergalácticas y de alguna manera descubrir quién debe ser realmente.",
-      "Genre": [
-        "Animación",
-        "Aventura",
-        "Ciencia Ficción",
-        "Drama"
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiYzIxMjItNWUxNi00NDc5LWJjMzEtZmRkY2EwOTJhZjkyXkEyXkFqcGc@._V1_.jpg",
-      "Time": "0h 00m",
-      "Title": "Elío (2025)",
-      "Trailer": "https://www.youtube.com/watch?v=iKNgMdjAq7w",
-      "Year": 2025
+      "Trailer": "https://www.youtube.com/watch?v=iKNgMdjAq7w"
     },
     {
       "image": "https://m.media-amazon.com/images/M/MV5BOGU0ZWYzZmUtZDM5Yi00NjJlLTllNTctY2NiZWVkOTIzM2JlXkEyXkFqcGc@._V1_.jpg",
-      "name": "Cómo entrenar a tu dragón (2025)",
+      "name": "Cómo entrenar a tu dragón",
       "genre": "Aventura",
       "year": "13/06/2025",
       "age": "+ 09",
       "time": "Estreno 2025",
-
-      "Casts": [
-        {
-          "Actor": "Yonas Kibreab",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BM2IzMzc1ZDUtNzYwYi00NDE0LWE5MTktNDZkNDUzZjk3MmZkXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Zoe Saldaña",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Brad Garrett",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjEwMjYyMjYxNF5BMl5BanBnXkFtZTgwNzE0MDU3ODE@._V1_.jpg"
-        },
-        {
-          "Actor": "Jameela Jamil",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjA0NDI4OTEwMl5BMl5BanBnXkFtZTgwNDM4NDg4OTE@._V1_.jpg"
-        },
-        {
-          "Actor": "Shirley Henderson",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNjAyNTY0M15BMl5BanBnXkFtZTYwNzMzNTMz._V1_.jpg"
-        },
-        {
-          "Actor": "Remy Edgerly",
-          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
-        }
-      ],
-      "Description": "Un joven vikingo aspira a cazar dragones, pero se convierte inesperadamente en amigo de un joven dragón.",
-      "Genre": [
-        "Aventura",
-        "Fantasia"
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU0ZWYzZmUtZDM5Yi00NjJlLTllNTctY2NiZWVkOTIzM2JlXkEyXkFqcGc@._V1_.jpg",
-      "Time": "0h 00m",
-      "Title": "Cómo entrenar a tu dragón (2025)",
-      "Trailer": "https://www.youtube.com/watch?v=hJVL8U6ROck",
-      "Year": 2025
+      "Trailer": "https://www.youtube.com/watch?v=hJVL8U6ROck"
     },
     {
       "image": "https://m.media-amazon.com/images/M/MV5BZGJjNWExZjAtODNjYy00ZWZiLWE5ZTYtN2Y1YTAwNzQ3MWIyXkEyXkFqcGc@._V1_.jpg",
-      "name": "Zootopia 2 (2025)",
+      "name": "Zootopia 2",
       "genre": "Aventura",
       "year": "26/11/2025",
       "age": "+ 09",
       "time": "Estreno 2025",
-
-      "Casts": [
-        {
-          "Actor": "Jason Bateman",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMTMwOTQ0MDUyNF5BMl5BanBnXkFtZTcwNTQ1MzY1Mw@@._V1_.jpg"
-        },
-        {
-          "Actor": "Ginnifer Goodwin",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOWMwNjhkZjgtNjYzYy00OWIwLWExYTYtNjE3ZDE1MjBlMzg0XkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Shakira",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BMjEwNzkzNzkyMl5BMl5BanBnXkFtZTcwNTEyOTMwNw@@._V1_.jpg"
-        },
-        {
-          "Actor": "Fortune Feimster",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BOGYwZjBjY2EtNmJhYi00MGIwLWFkYzgtMjU5ZmY0MjI1NmYwXkEyXkFqcGc@._V1_.jpg"
-        },
-        {
-          "Actor": "Ke Huy Quan",
-          "PicUrl": "https://m.media-amazon.com/images/M/MV5BYzYwMjFkOTAtYmZhMi00MmY0LWI2ZGEtNjVkOTViMmI2MDhhXkEyXkFqcGc@._V1_.jpg"
-        }
-      ],
-      "Description": "Zootopia 2 es una cinta animada de aventura, secuela del éxito de 2016, que sigue la historia de la valiente coneja policía Judy Hopps, quien, con la ayuda de su amigo, el zorro Nick Wilde, deberá resolver un nuevo caso, el más peligroso y complejo de su vida y carrera.",
-      "Genre": [
-        "Animación",
-        "Aventura",
-        "Familia"
-      ],
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJjNWExZjAtODNjYy00ZWZiLWE5ZTYtN2Y1YTAwNzQ3MWIyXkEyXkFqcGc@._V1_.jpg",
-      "Time": "0h 00m",
-      "Title": "Zootopia 2 (2025)",
-      "Trailer": "https://www.youtube.com/watch?v=nB7_WQvZUuo",
-      "Year": 2025
+      "Trailer": "https://www.youtube.com/watch?v=nB7_WQvZUuo"
     }
   ],
   "Estrenos": [
+    {
+      "Casts": [
+        {
+          "Actor": "Olivia Holt",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/c8mrNfxir0IfmiWLSUIKFO9QaeI.jpg"
+        },
+        {
+          "Actor": "Mason Gooding",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "Actor": "Gigi Zumbado",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+        },
+        {
+          "Actor": "Michaela Watkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+        },
+        {
+          "Actor": "Devon Sawa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+        },
+        {
+          "Actor": "Jordana Brewster",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+        },
+        {
+          "Actor": "Lauren O'Hara",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4E1mKfsDlPhbuBAjP42TwPMQQPT.jpg"
+        },
+        {
+          "Actor": "Alexander Walker",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dCggrsRxSGNNeNtkTOLWadf0XUs.jpg"
+        }
+      ],
+      "Description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "Genre": [
+        "Terror",
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 37m",
+      "Title": "Heart Eyes",
+      "Trailer": "https://niikaplayerr.com/stream/RmtrqB1GPJPXQE26oz0_Tw/hjkrhuihghfvu/1744820660/22120730/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Khanyi Mbau",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Ayanda Borotho",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Jesse Suntele",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bN70YYDUDCwzrqHrqD9ZwcMGFPC.jpg"
+        },
+        {
+          "Actor": "Khosi Ngema",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lmNd3QN0huNZxRm2jAD4LgJckJg.jpg"
+        },
+        {
+          "Actor": "Connie Chiume",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3ET4rE2aAEyczhognWWi1rPAdWo.jpg"
+        }
+      ],
+      "Description": "Dos madres, que pasan de ser las mejores amigas a archienemigas, inician una guerra entre sus vecindarios cuando se enteran de que sus hijos se han enamorado.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg",
+      "Genre": [
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 32m",
+      "Title": "Meet the Khumalos",
+      "Trailer": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/04424/fusm2xy15k9m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SGAy-XBdRNYsshVMzWIZhhBmL-nmbUqDXNTf4kDLWLQ&s=1744777037&e=129600&f=22120750&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=6147",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Quaid",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+          "Actor": "Amber Midthunder",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+          "Actor": "Ray Nicholson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+        },
+        {
+          "Actor": "Jacob Batalon",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "Actor": "Betty Gabriel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/n67i3H3VM5quDQfcS591EbotPby.jpg"
+        },
+        {
+          "Actor": "Matt Walsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+        },
+        {
+          "Actor": "Evan Hengst",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+        },
+        {
+          "Actor": "Jessica Stanley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg"
+        }
+      ],
+      "Description": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+      "Genre": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "Time": "1h 50m",
+      "Title": "Novocaine",
+      "Trailer": "https://niikaplayerr.com/stream/slnL853jXqJXJLFDDU62zQ/hjkrhuihghfvu/1744819660/22138099/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -170,7 +209,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "804a"
     },
     {
       "Casts": [
@@ -221,6 +261,42 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
+      "Year": 2025,
+      "id": "8a09"
+    },
+    {
+      "id": "dcaf",
+      "Casts": [
+        {
+          "Actor": "Danielle Deadwyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifQcCBM5B4dIJdz4B0laO4yQuzU.jpg"
+        },
+        {
+          "Actor": "Okwui Okpokwasili",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jJIm1dBQ3yYztPrMCwnKSJl9F0U.jpg"
+        },
+        {
+          "Actor": "Peyton Jackson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg"
+        },
+        {
+          "Actor": "Estella Kahiha",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uQF4rAu6DZRXF4zHugsr1mGs8Bj.jpg"
+        },
+        {
+          "Actor": "Russell Hornsby",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+        }
+      ],
+      "Description": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "Genre": [
+        "Terror",
+        "Misterio"
+      ],
+      "Time": "1h 27m",
+      "Title": "The Woman in the Yard",
+      "Trailer": "https://niikaplayerr.com/stream/NUGGK7gbeL7DOCwEHpuJPA/hjkrhuihghfvu/1744815668/22223597/index-f1-v1-a1.m3u8",
       "Year": 2025
     }
   ],
@@ -228,6 +304,168 @@
     {
       "Casts": [
         {
+          "Actor": "Olivia Holt",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/c8mrNfxir0IfmiWLSUIKFO9QaeI.jpg"
+        },
+        {
+          "Actor": "Mason Gooding",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "Actor": "Gigi Zumbado",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+        },
+        {
+          "Actor": "Michaela Watkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+        },
+        {
+          "Actor": "Devon Sawa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+        },
+        {
+          "Actor": "Jordana Brewster",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+        },
+        {
+          "Actor": "Lauren O'Hara",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4E1mKfsDlPhbuBAjP42TwPMQQPT.jpg"
+        },
+        {
+          "Actor": "Alexander Walker",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dCggrsRxSGNNeNtkTOLWadf0XUs.jpg"
+        }
+      ],
+      "Description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "Genre": [
+        "Terror",
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 37m",
+      "Title": "Heart Eyes",
+      "Trailer": "https://niikaplayerr.com/stream/RmtrqB1GPJPXQE26oz0_Tw/hjkrhuihghfvu/1744820660/22120730/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Khanyi Mbau",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Ayanda Borotho",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Jesse Suntele",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bN70YYDUDCwzrqHrqD9ZwcMGFPC.jpg"
+        },
+        {
+          "Actor": "Khosi Ngema",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lmNd3QN0huNZxRm2jAD4LgJckJg.jpg"
+        },
+        {
+          "Actor": "Connie Chiume",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3ET4rE2aAEyczhognWWi1rPAdWo.jpg"
+        }
+      ],
+      "Description": "Dos madres, que pasan de ser las mejores amigas a archienemigas, inician una guerra entre sus vecindarios cuando se enteran de que sus hijos se han enamorado.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg",
+      "Genre": [
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 32m",
+      "Title": "Meet the Khumalos",
+      "Trailer": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/04424/fusm2xy15k9m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SGAy-XBdRNYsshVMzWIZhhBmL-nmbUqDXNTf4kDLWLQ&s=1744777037&e=129600&f=22120750&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=6147",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Quaid",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+          "Actor": "Amber Midthunder",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+          "Actor": "Ray Nicholson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+        },
+        {
+          "Actor": "Jacob Batalon",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "Actor": "Betty Gabriel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/n67i3H3VM5quDQfcS591EbotPby.jpg"
+        },
+        {
+          "Actor": "Matt Walsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+        },
+        {
+          "Actor": "Evan Hengst",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+        },
+        {
+          "Actor": "Jessica Stanley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg"
+        }
+      ],
+      "Description": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+      "Genre": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "Time": "1h 50m",
+      "Title": "Novocaine",
+      "Trailer": "https://niikaplayerr.com/stream/slnL853jXqJXJLFDDU62zQ/hjkrhuihghfvu/1744819660/22138099/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Danielle Deadwyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifQcCBM5B4dIJdz4B0laO4yQuzU.jpg"
+        },
+        {
+          "Actor": "Okwui Okpokwasili",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jJIm1dBQ3yYztPrMCwnKSJl9F0U.jpg"
+        },
+        {
+          "Actor": "Peyton Jackson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg"
+        },
+        {
+          "Actor": "Estella Kahiha",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uQF4rAu6DZRXF4zHugsr1mGs8Bj.jpg"
+        },
+        {
+          "Actor": "Russell Hornsby",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+        }
+      ],
+      "Description": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "Genre": [
+        "Terror",
+        "Misterio"
+      ],
+      "Time": "1h 27m",
+      "Title": "The Woman in the Yard",
+      "Trailer": "https://niikaplayerr.com/stream/NUGGK7gbeL7DOCwEHpuJPA/hjkrhuihghfvu/1744815668/22223597/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
           "Actor": "Anthony Mackie",
           "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
         },
@@ -274,7 +512,8 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "50bc"
     },
     {
       "Casts": [
@@ -310,7 +549,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "e098"
     },
     {
       "Casts": [
@@ -339,7 +579,8 @@
       "Time": "1h 19m",
       "Title": "Zuzubalandia: O Filme - La película",
       "Trailer": "https://qpljyz39awcoenfd.premilkyway.com/hls2/01/06050/rdfd6ckovtyv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=_dtG5qZqMVHKcSl5Hu0uSSVrf-dUPLXOotIwlTJ2Zys&s=1744609888&e=129600&f=30252356&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b076"
     },
     {
       "Casts": [
@@ -376,7 +617,8 @@
       "Time": "1h 53m",
       "Title": "Entre Lobos",
       "Trailer": "https://eomoacrfcwpd.premilkyway.com/hls2/01/03747/2r859tchzoqx_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=XS1hFYMZcstb4xufXzptwdjxD3O4lRQoZTQhtoW8HGc&s=1744610043&e=129600&f=18735806&srv=fbIjIZy3pIBwE0S&i=0.4&sp=500&p1=fbIjIZy3pIBwE0S&p2=fbIjIZy3pIBwE0S&asn=6147",
-      "Year": 2010
+      "Year": 2010,
+      "id": "bdee"
     },
     {
       "Casts": [
@@ -406,7 +648,8 @@
       "Time": "2h 30m",
       "Title": "Isla bonita",
       "Trailer": "https://7f12638xuzfg.premilkyway.com/hls2/01/03089/4ocuomfa5g9v_n/index-v1-a1.m3u8?t=X8vMOfUHpbbSMhMzvDmS8sfH-8WRNY2i5IQpoosW9y4&s=1744610161&e=129600&f=15448943&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "f29e"
     },
     {
       "Casts": [
@@ -431,7 +674,8 @@
       "Time": "2h 30m",
       "Title": "Los Niños Perdidos",
       "Trailer": "https://lvvb9d6p7p.premilkyway.com/hls2/01/05728/f5a3thmodj33_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vg48Rv84kWiJbIvxf8tDvChseLmOfIo0n4wTYryM-eg&s=1744610245&e=129600&f=28644770&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8690"
     },
     {
       "Casts": [
@@ -462,7 +706,8 @@
       "Time": "1h 40m",
       "Title": "La Leyenda Del Dragón (Dragonkeeper)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05559/ekzrupijyoa5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=s24PJNzw1-Mt36fz20otP-iH9gd4SHnTkIxG7Jk4WuE&s=1744610333&e=129600&f=27798137&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "24e3"
     },
     {
       "Casts": [
@@ -492,7 +737,8 @@
       "Time": "1h 58m",
       "Title": "The Menendez Brothers",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/06027/sis0jzfovv8m_,l,n,.urlset/index-f2-v1-a2.m3u8?t=S4_e0h6hidg9LSAuHIrKovMIlRsLCOnWgHOpPCog-RM&s=1744610435&e=129600&f=30135495&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c99d"
     },
     {
       "Casts": [
@@ -530,7 +776,8 @@
       "Time": "2h 09m",
       "Title": "Smile 2",
       "Trailer": "https://cv9fqnu812v.premilkyway.com/hls2/01/05227/3kwugtogncko_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=j6kaRA-8FZMj8t1wbE6OJFrK_kpHvUQ1Vh7g_kuCF8Q&s=1744610529&e=129600&f=26137622&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b289"
     },
     {
       "Casts": [
@@ -567,7 +814,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "db4a"
     },
     {
       "Casts": [
@@ -619,7 +867,8 @@
       "Time": "24 minutos",
       "Title": "El búho y la niña: Casi una historia navideña (2024)",
       "Trailer": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/06532/tycoh44qviux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZG2At6nsCwO46ug2OVs_ZIdW3QKpQ5P9BONMKk30ar8&s=1744611478&e=129600&f=32661334&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "00ef"
     },
     {
       "Casts": [
@@ -649,7 +898,8 @@
       "Time": "1h 00m",
       "Title": "Look Back (2024)",
       "Trailer": "https://rfognbc0mhhj.premilkyway.com/hls2/01/05489/ewsxfnm0gtjq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5Ow59lCjGnyKYtUjKPQtsjPna1vRWvGnQUU1x2F66yo&s=1744611615&e=129600&f=27445421&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e51c"
     },
     {
       "Casts": [
@@ -679,7 +929,8 @@
       "Time": "1h 25m",
       "Title": "Haikyu!! La batalla del basurero (2024)",
       "Trailer": "https://lvvb9d6p7p.premilkyway.com/hls2/01/05417/12xyj1ezz1gt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8l3Nrd-Q0OWwjRbLx_L4rj1eImLv2V1tXXtyzA6xkhU&s=1744611738&e=129600&f=27085810&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "767c"
     },
     {
       "Casts": [
@@ -726,7 +977,8 @@
       "Time": "1h 33m",
       "Title": "Piece by Piece (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05441/qkyjrahq4vt3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CPOacCVQZ1xBpHEhyJhLZia5GE0TwINAgNxdGtFyOm4&s=1744611832&e=129600&f=27206205&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f8a1"
     },
     {
       "Casts": [
@@ -771,7 +1023,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1a98"
     },
     {
       "Casts": [
@@ -819,7 +1072,8 @@
       "Time": "1h 22m",
       "Title": "Los Green en la gran ciudad, la película: Salvando el Greenverso (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/06906/touojnimt4wc_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6ioLYPyruiSvdl9LqgSHhlw1IwKlnVC1QR9T8YLrhh0&s=1744612109&e=129600&f=34531919&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8f67"
     },
     {
       "Casts": [
@@ -870,7 +1124,8 @@
       "Time": "44 min",
       "Title": "LEGO Marvel Avengers: Misión Demolición (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05159/lfq9ur6s4lf9_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=23tkjvhIZVrGw7moayV0-PcRU4uQ8tgx6DiXeRVWFuw&s=1744612208&e=129600&f=25797218&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b385"
     },
     {
       "Casts": [
@@ -921,7 +1176,8 @@
       "Time": "1h 42 min",
       "Title": "Robot salvaje (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/07435/ux2ccyn62o9i_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wO16Z-VrNE_0xjuGb4NdR20-rRLO7S3TSyI3a7flHyI&s=1744612313&e=129600&f=37177663&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6ec9"
     },
     {
       "Casts": [
@@ -955,7 +1211,8 @@
       "Time": "24 min",
       "Title": "Los tipos malos: ¿Truco o atraco? (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05050/348dvsiukk7m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=I8eT7zD6_jX06YkkDruokkfQj8TyuVJjsloIFZSAFKk&s=1744612414&e=129600&f=25254211&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1382"
     },
     {
       "Casts": [
@@ -1007,7 +1264,8 @@
       "Time": "1h 29min",
       "Title": "Mascotas En Apuros (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/05053/9ynk36j7gj77_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WNE_mhnVta230rggsAOhI7-p2xviSzi_XyCR1WfBARo&s=1744612897&e=129600&f=25268916&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "443e"
     },
     {
       "Casts": [
@@ -1058,7 +1316,8 @@
       "Time": "1h 31min",
       "Title": "Blue Lock la película - episodio Nagi- (2024)",
       "Trailer": "https://18jij6rntf.premilkyway.com/hls2/01/05279/i96fh6koeadd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NNkHYdKP4xRJQ0SpL9YeNIclDKr4v41Tdz6k8DYG2gs&s=1744612969&e=129600&f=26399009&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "71dd"
     },
     {
       "Casts": [
@@ -1110,7 +1369,8 @@
       "Time": "1h 36min",
       "Title": "IntensaMente 2 (2024)",
       "Trailer": "https://v0esu3d58sme.milocdn.com/hls2/01/02185/2ajluf6gbjfc_n/index-v1-a1.m3u8?t=Sd0If-lVTbyUjEL8UdEQoBj3LBqtnxxnwUr3WqIgPNg&s=1744613187&e=129600&f=10926837&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2a76"
     },
     {
       "Casts": [
@@ -1162,7 +1422,8 @@
       "Time": "1h 34min",
       "Title": "Mi villano favorito 4 (2024)",
       "Trailer": "https://g95mskivcjeu.milocdn.com/hls2/01/02119/nb601m7lhb8g_n/index-v1-a1.m3u8?t=ZcMERVOV-RTY9D3JOJJDAh9gFz6Kg4m-rPI92l3hwLE&s=1744613320&e=129600&f=10708943&srv=hNCriRPOtl4l&i=0.4&sp=500&p1=hNCriRPOtl4l&p2=hNCriRPOtl4l&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d827"
     },
     {
       "Casts": [
@@ -1214,7 +1475,8 @@
       "Time": "1h 26min",
       "Title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
       "Trailer": "https://tzoynoerzj90.milocdn.com/hls2/01/02098/wr3lzzl1d6ca_n/index-v1-a1.m3u8?t=wWGg8f5ulnHbTkTu_VuVUZZZNtqrlAf1xdaH5gHjGuY&s=1744613438&e=129600&f=10659755&srv=FDxNMKg55UEqp&i=0.4&sp=500&p1=FDxNMKg55UEqp&p2=FDxNMKg55UEqp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2d11"
     },
     {
       "Casts": [
@@ -1265,7 +1527,8 @@
       "Time": "1h 39min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, tercera parte (2024)",
       "Trailer": "https://epx0gvhr49ln.milocdn.com/hls2/01/02034/zgp3n0067dvb_n/index-v1-a1.m3u8?t=gHR1bifR_W-_6r7AXwe6eC-yhA3BL687oj1NuYFQANE&s=1744613866&e=129600&f=10190423&srv=LoPv6hj4e5Ic&i=0.4&sp=500&p1=LoPv6hj4e5Ic&p2=LoPv6hj4e5Ic&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6e37"
     },
     {
       "Casts": [
@@ -1317,7 +1580,8 @@
       "Time": "1h 41min",
       "Title": "Garfield: la película (2024)",
       "Trailer": "https://jje3d85cwvdg.milocdn.com/hls2/01/01995/mevywacop8l9_n/index-v1-a1.m3u8?t=nReBiED6hgJfvbxzo-mjJ6rFWoKnoXIJc52ZH0sVADI&s=1744614053&e=129600&f=10008159&srv=nzxfhnnl6es7&i=0.4&sp=500&p1=nzxfhnnl6es7&p2=nzxfhnnl6es7&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f51e"
     },
     {
       "Casts": [
@@ -1369,7 +1633,8 @@
       "Time": "1h 24min",
       "Title": "Un Gato Con Suerte - 10 vidas (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/07506/norieae8x9u7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yfWBODe0F9FT8K2o0pD3ktsZZOrHHhOIDdDmzqsDX2k&s=1744615183&e=129600&f=37531003&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "55b5"
     },
     {
       "Casts": [
@@ -1420,7 +1685,8 @@
       "Time": "2h 40min",
       "Title": "Wicked (2024)",
       "Trailer": "https://hyydtkjwumnh.acek-cdn.com/hls2/01/03310/1i3dmy8fmlks_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w8Xqo6FqLCx5QWbQbQLLX0viSfLNFNPozESAHD2-aHI&s=1744615354&e=129600&f=16552823&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a9ee"
     },
     {
       "Casts": [
@@ -1473,7 +1739,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9da8"
     },
     {
       "Casts": [
@@ -1525,7 +1792,8 @@
       "Time": "1h 56min",
       "Title": "Ultraman: El Ascenso (2024)",
       "Trailer": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/01876/vgy3he1jonq2_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TgGYaAB8EUwB--wUshnCriv4b2Wx5qE4A7T9n-fi7RM&s=1744615550&e=129600&f=9384039&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "602c"
     },
     {
       "Casts": [
@@ -1547,7 +1815,8 @@
       "Time": "1h 00min",
       "Title": "Baki Hanma vs. Kengan Ashura (2024)",
       "Trailer": "https://6wyav2r9i6j.premilkyway.com/hls2/01/04088/qvc2helx2c7h_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=cU-etNkbPwod1t2cSEcYaiL5j2lEWcYrwmDTPFl7P2E&s=1744615653&e=129600&f=20440071&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8d97"
     },
     {
       "Casts": [
@@ -1598,7 +1867,8 @@
       "Time": "1h 00min",
       "Title": "South Park: The End of Obesity (2024)",
       "Trailer": "https://dsltl0tjyahh.milocdn.com/hls2/01/01762/8zatdu2bkpl8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=eMWLZnhjdbSKw1gEMvgyl2nphaAwpGzu8lWxxHDcVSA&s=1744615724&e=129600&f=8810352&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f7be"
     },
     {
       "Casts": [
@@ -1650,7 +1920,8 @@
       "Time": "1h 52min",
       "Title": "Mi querida oni (2024)",
       "Trailer": "https://j5j2vy2d9imb.milocdn.com/hls2/01/01762/yw3ae0bbveeh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YKI1VPlmkkefY_rUaVX-MxO898qbd1NtuzmVrqSyV0Q&s=1744615790&e=129600&f=8812660&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "0767"
     },
     {
       "Casts": [
@@ -1701,7 +1972,8 @@
       "Time": "1h 34min",
       "Title": "Telma, la unicornio (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03864/z928nlegiocz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=NVxIxYs6G7RmW60_A2ppjOnn4gpAQlPLSLW4FtfLfOI&s=1744615861&e=129600&f=19323485&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d127"
     },
     {
       "Casts": [
@@ -1752,7 +2024,8 @@
       "Time": "1h 34min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/03707/e1r9zx9w1xm0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TDMpFicRG0EcDCIByGDwoTuU6v2qstpquyoGH8Xp2is&s=1744616183&e=129600&f=18539865&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "178f"
     },
     {
       "Casts": [
@@ -1803,7 +2076,8 @@
       "Time": "1h 40min",
       "Title": "El Pájaro Loco ¡Lío en el campamento! (2024)",
       "Trailer": "https://mx9skjnui4es.premilkyway.com/hls2/01/03563/tf57dfp93xcw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=wwN9ANFDwFS-fDlw1Seow104JsK-r5kiwVZR-JN_G6E&s=1744616883&e=129600&f=17817372&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "84b6"
     },
     {
       "Casts": [
@@ -1856,7 +2130,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "11a0"
     },
     {
       "Casts": [
@@ -1906,7 +2181,8 @@
       "Time": "1h 34min",
       "Title": "Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/03069/i8mijt97a3se_n/index-v1-a1.m3u8?t=4onTRq0Amf58O3B61r4wEmTsWGJVWP1EYD5za0Zs2L8&s=1744616281&e=129600&f=15349237&srv=jgy4rdrj5btf&i=0.4&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "af3b"
     },
     {
       "Casts": [
@@ -1958,7 +2234,8 @@
       "Time": "26 min",
       "Title": "Monsters: El infierno del dragón (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/02869/6134vtmbq5io_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OMhtIbB737pR31fE4h9zQi-ajXiCVpZQ-NN-hX3dvPg&s=1744617048&e=129600&f=14346876&srv=m2q5ea5w42hk&i=0.4&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ebca"
     },
     {
       "Casts": [
@@ -2009,7 +2286,8 @@
       "Time": "1h 33min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1",
       "Trailer": "https://g4vsrqvtrj.premilkyway.com/hls2/01/02748/xg1ky0luuie7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=t6sjtyl0ZOLfjyrIsJ5j2BI_D1nFeTy_nUyljCbuzWk&s=1744616981&e=129600&f=13740024&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "fc47"
     },
     {
       "Casts": [
@@ -2061,7 +2339,8 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://12kbrnhtqb58.milocdn.com/hls2/01/01199/n6vfnrhvfdzv_n/index-v1-a1.m3u8?t=wI_bcEW0ieyHx92mRVE4yovjO6UaVzL_eQjhKFLgwTc&s=1744616341&e=129600&f=5998895&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "328c"
     },
     {
       "Casts": [
@@ -2112,7 +2391,8 @@
       "Time": "1h 25min",
       "Title": "Megamente contra el sindicato del mal (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03247/dlflrwpnwdfn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1oimjecCxR2VbcE6z0ygYfp2JXfJnbVwYqBVN71MBHw&s=1744617119&e=129600&f=16237556&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "87bc"
     },
     {
       "Casts": [
@@ -2163,7 +2443,8 @@
       "Time": "1h 26min",
       "Title": "Los Casagrande: La película (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03393/vpy4u7pek1cv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XsVqm2BiEgunFX_U6WOJWJPPOXekd65lCfdSAJ2tSh8&s=1744616447&e=129600&f=16967820&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "41a9"
     },
     {
       "Casts": [
@@ -2214,7 +2495,8 @@
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
       "Trailer": "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/03375/0znt8ojrwkck_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=eS3knNto_npayHhW0pVF8oy2yXTj_Jwx0W2c5HLWPyE&s=1744616601&e=129600&f=25287787&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "3c94"
     },
     {
       "Casts": [
@@ -2264,7 +2546,8 @@
       "Time": "1h 49min",
       "Title": "Technoboys (2024)",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/04897/x46jlppfcmah_,l,n,.urlset/index-f1-v1-a1.m3u8?t=cyXkI5qV6nRtFV7BoHT1-EeQLQZzWPYi5qt3hQknz3M&s=1744617184&e=129600&f=24487654&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1bd5"
     },
     {
       "Casts": [
@@ -2314,7 +2597,8 @@
       "Time": "1h 44min",
       "Title": "Disco, Ibiza, Locomía (2024)",
       "Trailer": "https://vpk1g9itdgtk.acek-cdn.com/hls2/01/02254/2sexh6hj6etl_h/index-v1-a1.m3u8?t=1Dybv97G94pCP6nUG3XjgFjQqGvNj6XrzLcm-W94nTc&s=1744617625&e=129600&f=11305112&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "80d0"
     },
     {
       "Casts": [
@@ -2365,7 +2649,8 @@
       "Time": "1h 34min",
       "Title": "Al borde del abismo (2024)",
       "Trailer": "https://ggpjq6gmqddb.acek-cdn.com/hls2/01/02038/a6jzpijluxxy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WyHCcXRsMXo4eEa7KpUslYtHt0inpBB80eZLnKXrPhw&s=1744617819&e=129600&f=10192422&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "356a"
     },
     {
       "Casts": [
@@ -2415,7 +2700,8 @@
       "Time": "2h 02min",
       "Title": "Back to Black (2024)",
       "Trailer": "https://be7713.rcr82.waw05.cdn255.com/hls2/01/06291/3q60ldh4u6lz_n/index-v1-a1.m3u8?t=cG5u0DGBSDAw07E5Lkb7I5-MQsHvm7QU4mYPg-TCiUw&s=1744616755&e=10800&f=35825424&srv=02&asn=6147&sp=4000&p=",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b9c3"
     },
     {
       "Casts": [
@@ -2446,7 +2732,8 @@
       "Time": "1h 30m",
       "Title": "Moana 2 (2024)",
       "Trailer": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03734/i0rzm7ytb78a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zAf0X5uYLDj7mQgu_QTR8teb9zpeIQ93U52ZZyNiqS0&s=1744617760&e=129600&f=18673377&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "eee5"
     },
     {
       "Casts": [
@@ -2476,7 +2763,8 @@
       "Time": "1h 53m",
       "Title": "Te llevo en el alma (2024)",
       "Trailer": "https://cq0btxwv8nim.milocdn.com/hls2/01/01622/lrvloymr91c0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=y_uE87qzbU2f3OLME83su21JQOD8HpuUybDrV59awc4&s=1744617696&e=129600&f=8110311&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "5cd3"
     },
     {
       "Casts": [
@@ -2507,7 +2795,8 @@
       "Time": "1h 30m",
       "Title": "La idea de tenerte (2024)",
       "Trailer": "https://s1yos6hpnkhg.milocdn.com/hls2/01/01622/4698sqd28et8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=aR4urbT-Hj8pXDw2h8ZoEfvB3-Ld9r1y01TyLa7Hu3s&s=1744617539&e=129600&f=8110241&srv=oGzPVrx0r2FSm&i=0.4&sp=500&p1=oGzPVrx0r2FSm&p2=oGzPVrx0r2FSm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "bc6e"
     },
     {
       "Casts": [
@@ -2558,7 +2847,8 @@
       "Time": "1h 45min",
       "Title": "Bob Marley: One Love (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03365/rv1e0ug0ao7f_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hpwdD9-MX7x1uns9OaM5293c05v3Vnv_3A-ZlFn8SHU&s=1744617361&e=129600&f=16826118&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ac24"
     },
     {
       "Casts": [
@@ -2609,7 +2899,8 @@
       "Time": "1h 31min",
       "Title": "Música (2024)",
       "Trailer": "https://a99wtmgqgife.premilkyway.com/hls2/01/03510/p1kwcq5me3o9_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=vx62HZVzb5-M9Oa4nMxZtDAv92Q3S4rjTC7VVfkYvUM&s=1744617243&e=129600&f=17554874&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2e5f"
     },
     {
       "Casts": [
@@ -2661,7 +2952,8 @@
       "Time": "1h 24min",
       "Title": "La gran película de Baby Shark",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03782/ej25dhmbkx9e_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JapsIWSTAiqinoIPZT8QLdJRoM-Z6jCXHtoYD0r_SOU&s=1744615987&e=129600&f=18910773&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "513d"
     }
   ],
   "Recientes": [
@@ -2699,7 +2991,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "7bd1"
     },
     {
       "Casts": [
@@ -2750,10 +3043,139 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "8b0e"
     }
   ],
   "Comedia": [
+    {
+      "Casts": [
+        {
+          "Actor": "Olivia Holt",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/c8mrNfxir0IfmiWLSUIKFO9QaeI.jpg"
+        },
+        {
+          "Actor": "Mason Gooding",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "Actor": "Gigi Zumbado",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+        },
+        {
+          "Actor": "Michaela Watkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+        },
+        {
+          "Actor": "Devon Sawa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+        },
+        {
+          "Actor": "Jordana Brewster",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+        },
+        {
+          "Actor": "Lauren O'Hara",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4E1mKfsDlPhbuBAjP42TwPMQQPT.jpg"
+        },
+        {
+          "Actor": "Alexander Walker",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dCggrsRxSGNNeNtkTOLWadf0XUs.jpg"
+        }
+      ],
+      "Description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "Genre": [
+        "Terror",
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 37m",
+      "Title": "Heart Eyes",
+      "Trailer": "https://niikaplayerr.com/stream/RmtrqB1GPJPXQE26oz0_Tw/hjkrhuihghfvu/1744820660/22120730/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Khanyi Mbau",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Ayanda Borotho",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Jesse Suntele",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bN70YYDUDCwzrqHrqD9ZwcMGFPC.jpg"
+        },
+        {
+          "Actor": "Khosi Ngema",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lmNd3QN0huNZxRm2jAD4LgJckJg.jpg"
+        },
+        {
+          "Actor": "Connie Chiume",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3ET4rE2aAEyczhognWWi1rPAdWo.jpg"
+        }
+      ],
+      "Description": "Dos madres, que pasan de ser las mejores amigas a archienemigas, inician una guerra entre sus vecindarios cuando se enteran de que sus hijos se han enamorado.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg",
+      "Genre": [
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 32m",
+      "Title": "Meet the Khumalos",
+      "Trailer": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/04424/fusm2xy15k9m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SGAy-XBdRNYsshVMzWIZhhBmL-nmbUqDXNTf4kDLWLQ&s=1744777037&e=129600&f=22120750&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=6147",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Quaid",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+          "Actor": "Amber Midthunder",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+          "Actor": "Ray Nicholson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+        },
+        {
+          "Actor": "Jacob Batalon",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "Actor": "Betty Gabriel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/n67i3H3VM5quDQfcS591EbotPby.jpg"
+        },
+        {
+          "Actor": "Matt Walsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+        },
+        {
+          "Actor": "Evan Hengst",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+        },
+        {
+          "Actor": "Jessica Stanley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg"
+        }
+      ],
+      "Description": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+      "Genre": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "Time": "1h 50m",
+      "Title": "Novocaine",
+      "Trailer": "https://niikaplayerr.com/stream/slnL853jXqJXJLFDDU62zQ/hjkrhuihghfvu/1744819660/22138099/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -2788,7 +3210,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "db39"
     },
     {
       "Casts": [
@@ -2819,7 +3242,8 @@
       "Time": "1h 30m",
       "Title": "La idea de tenerte (2024)",
       "Trailer": "https://s1yos6hpnkhg.milocdn.com/hls2/01/01622/4698sqd28et8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=aR4urbT-Hj8pXDw2h8ZoEfvB3-Ld9r1y01TyLa7Hu3s&s=1744617539&e=129600&f=8110241&srv=oGzPVrx0r2FSm&i=0.4&sp=500&p1=oGzPVrx0r2FSm&p2=oGzPVrx0r2FSm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "39af"
     },
     {
       "Casts": [
@@ -2870,7 +3294,8 @@
       "Time": "1h 31min",
       "Title": "Música (2024)",
       "Trailer": "https://a99wtmgqgife.premilkyway.com/hls2/01/03510/p1kwcq5me3o9_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=vx62HZVzb5-M9Oa4nMxZtDAv92Q3S4rjTC7VVfkYvUM&s=1744617243&e=129600&f=17554874&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9ef2"
     },
     {
       "Casts": [
@@ -2920,7 +3345,8 @@
       "Time": "1h 49min",
       "Title": "Technoboys (2024)",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/04897/x46jlppfcmah_,l,n,.urlset/index-f1-v1-a1.m3u8?t=cyXkI5qV6nRtFV7BoHT1-EeQLQZzWPYi5qt3hQknz3M&s=1744617184&e=129600&f=24487654&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "df6f"
     },
     {
       "Casts": [
@@ -2971,7 +3397,8 @@
       "Time": "1h 34min",
       "Title": "Al borde del abismo (2024)",
       "Trailer": "https://ggpjq6gmqddb.acek-cdn.com/hls2/01/02038/a6jzpijluxxy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WyHCcXRsMXo4eEa7KpUslYtHt0inpBB80eZLnKXrPhw&s=1744617819&e=129600&f=10192422&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8d84"
     },
     {
       "Casts": [
@@ -3022,7 +3449,8 @@
       "Time": "1h 25min",
       "Title": "Megamente contra el sindicato del mal (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03247/dlflrwpnwdfn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1oimjecCxR2VbcE6z0ygYfp2JXfJnbVwYqBVN71MBHw&s=1744617119&e=129600&f=16237556&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ba28"
     },
     {
       "Casts": [
@@ -3073,7 +3501,8 @@
       "Time": "1h 40min",
       "Title": "El Pájaro Loco ¡Lío en el campamento! (2024)",
       "Trailer": "https://mx9skjnui4es.premilkyway.com/hls2/01/03563/tf57dfp93xcw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=wwN9ANFDwFS-fDlw1Seow104JsK-r5kiwVZR-JN_G6E&s=1744616883&e=129600&f=17817372&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "490f"
     },
     {
       "Casts": [
@@ -3126,7 +3555,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "22f0"
     },
     {
       "Casts": [
@@ -3177,7 +3607,8 @@
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
       "Trailer": "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/03375/0znt8ojrwkck_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=eS3knNto_npayHhW0pVF8oy2yXTj_Jwx0W2c5HLWPyE&s=1744616601&e=129600&f=25287787&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6f73"
     },
     {
       "Casts": [
@@ -3228,7 +3659,8 @@
       "Time": "1h 26min",
       "Title": "Los Casagrande: La película (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03393/vpy4u7pek1cv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XsVqm2BiEgunFX_U6WOJWJPPOXekd65lCfdSAJ2tSh8&s=1744616447&e=129600&f=16967820&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c9fb"
     },
     {
       "Casts": [
@@ -3280,7 +3712,8 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://12kbrnhtqb58.milocdn.com/hls2/01/01199/n6vfnrhvfdzv_n/index-v1-a1.m3u8?t=wI_bcEW0ieyHx92mRVE4yovjO6UaVzL_eQjhKFLgwTc&s=1744616341&e=129600&f=5998895&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "723f"
     },
     {
       "Casts": [
@@ -3331,7 +3764,8 @@
       "Time": "1h 00min",
       "Title": "South Park: The End of Obesity (2024)",
       "Trailer": "https://dsltl0tjyahh.milocdn.com/hls2/01/01762/8zatdu2bkpl8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=eMWLZnhjdbSKw1gEMvgyl2nphaAwpGzu8lWxxHDcVSA&s=1744615724&e=129600&f=8810352&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "85d6"
     },
     {
       "Casts": [
@@ -3384,7 +3818,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7993"
     },
     {
       "Casts": [
@@ -3436,7 +3871,8 @@
       "Time": "1h 24min",
       "Title": "Un Gato Con Suerte - 10 vidas (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/07506/norieae8x9u7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yfWBODe0F9FT8K2o0pD3ktsZZOrHHhOIDdDmzqsDX2k&s=1744615183&e=129600&f=37531003&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "da0c"
     },
     {
       "Casts": [
@@ -3488,7 +3924,8 @@
       "Time": "1h 41min",
       "Title": "Garfield: la película (2024)",
       "Trailer": "https://jje3d85cwvdg.milocdn.com/hls2/01/01995/mevywacop8l9_n/index-v1-a1.m3u8?t=nReBiED6hgJfvbxzo-mjJ6rFWoKnoXIJc52ZH0sVADI&s=1744614053&e=129600&f=10008159&srv=nzxfhnnl6es7&i=0.4&sp=500&p1=nzxfhnnl6es7&p2=nzxfhnnl6es7&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "505d"
     },
     {
       "Casts": [
@@ -3540,7 +3977,8 @@
       "Time": "1h 26min",
       "Title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
       "Trailer": "https://tzoynoerzj90.milocdn.com/hls2/01/02098/wr3lzzl1d6ca_n/index-v1-a1.m3u8?t=wWGg8f5ulnHbTkTu_VuVUZZZNtqrlAf1xdaH5gHjGuY&s=1744613438&e=129600&f=10659755&srv=FDxNMKg55UEqp&i=0.4&sp=500&p1=FDxNMKg55UEqp&p2=FDxNMKg55UEqp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "92fc"
     },
     {
       "Casts": [
@@ -3592,7 +4030,8 @@
       "Time": "1h 34min",
       "Title": "Mi villano favorito 4 (2024)",
       "Trailer": "https://g95mskivcjeu.milocdn.com/hls2/01/02119/nb601m7lhb8g_n/index-v1-a1.m3u8?t=ZcMERVOV-RTY9D3JOJJDAh9gFz6Kg4m-rPI92l3hwLE&s=1744613320&e=129600&f=10708943&srv=hNCriRPOtl4l&i=0.4&sp=500&p1=hNCriRPOtl4l&p2=hNCriRPOtl4l&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2891"
     },
     {
       "Casts": [
@@ -3644,7 +4083,8 @@
       "Time": "1h 36min",
       "Title": "IntensaMente 2 (2024)",
       "Trailer": "https://v0esu3d58sme.milocdn.com/hls2/01/02185/2ajluf6gbjfc_n/index-v1-a1.m3u8?t=Sd0If-lVTbyUjEL8UdEQoBj3LBqtnxxnwUr3WqIgPNg&s=1744613187&e=129600&f=10926837&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c8f8"
     },
     {
       "Casts": [
@@ -3696,7 +4136,8 @@
       "Time": "1h 29min",
       "Title": "Mascotas En Apuros (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/05053/9ynk36j7gj77_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WNE_mhnVta230rggsAOhI7-p2xviSzi_XyCR1WfBARo&s=1744612897&e=129600&f=25268916&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8817"
     },
     {
       "Casts": [
@@ -3730,7 +4171,8 @@
       "Time": "24 min",
       "Title": "Los tipos malos: ¿Truco o atraco? (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05050/348dvsiukk7m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=I8eT7zD6_jX06YkkDruokkfQj8TyuVJjsloIFZSAFKk&s=1744612414&e=129600&f=25254211&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f279"
     },
     {
       "Casts": [
@@ -3781,7 +4223,8 @@
       "Time": "44 min",
       "Title": "LEGO Marvel Avengers: Misión Demolición (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05159/lfq9ur6s4lf9_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=23tkjvhIZVrGw7moayV0-PcRU4uQ8tgx6DiXeRVWFuw&s=1744612208&e=129600&f=25797218&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a1e2"
     },
     {
       "Casts": [
@@ -3829,7 +4272,8 @@
       "Time": "1h 22m",
       "Title": "Los Green en la gran ciudad, la película: Salvando el Greenverso (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/06906/touojnimt4wc_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6ioLYPyruiSvdl9LqgSHhlw1IwKlnVC1QR9T8YLrhh0&s=1744612109&e=129600&f=34531919&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2197"
     },
     {
       "Casts": [
@@ -3866,7 +4310,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "957c"
     },
     {
       "Casts": [
@@ -3896,10 +4341,58 @@
       "Time": "2h 30m",
       "Title": "Isla bonita",
       "Trailer": "https://7f12638xuzfg.premilkyway.com/hls2/01/03089/4ocuomfa5g9v_n/index-v1-a1.m3u8?t=X8vMOfUHpbbSMhMzvDmS8sfH-8WRNY2i5IQpoosW9y4&s=1744610161&e=129600&f=15448943&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "16a5"
     }
   ],
   "Accion": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Quaid",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+          "Actor": "Amber Midthunder",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+          "Actor": "Ray Nicholson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+        },
+        {
+          "Actor": "Jacob Batalon",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "Actor": "Betty Gabriel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/n67i3H3VM5quDQfcS591EbotPby.jpg"
+        },
+        {
+          "Actor": "Matt Walsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+        },
+        {
+          "Actor": "Evan Hengst",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+        },
+        {
+          "Actor": "Jessica Stanley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg"
+        }
+      ],
+      "Description": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+      "Genre": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "Time": "1h 50m",
+      "Title": "Novocaine",
+      "Trailer": "https://niikaplayerr.com/stream/slnL853jXqJXJLFDDU62zQ/hjkrhuihghfvu/1744819660/22138099/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -3949,7 +4442,8 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "f1b5"
     },
     {
       "Casts": [
@@ -4001,7 +4495,8 @@
       "Time": "26 min",
       "Title": "Monsters: El infierno del dragón (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/02869/6134vtmbq5io_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OMhtIbB737pR31fE4h9zQi-ajXiCVpZQ-NN-hX3dvPg&s=1744617048&e=129600&f=14346876&srv=m2q5ea5w42hk&i=0.4&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "bcae"
     },
     {
       "Casts": [
@@ -4052,7 +4547,8 @@
       "Time": "1h 33min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1",
       "Trailer": "https://g4vsrqvtrj.premilkyway.com/hls2/01/02748/xg1ky0luuie7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=t6sjtyl0ZOLfjyrIsJ5j2BI_D1nFeTy_nUyljCbuzWk&s=1744616981&e=129600&f=13740024&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "367e"
     },
     {
       "Casts": [
@@ -4105,7 +4601,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "645f"
     },
     {
       "Casts": [
@@ -4156,7 +4653,8 @@
       "Time": "1h 34min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/03707/e1r9zx9w1xm0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TDMpFicRG0EcDCIByGDwoTuU6v2qstpquyoGH8Xp2is&s=1744616183&e=129600&f=18539865&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "5dad"
     },
     {
       "Casts": [
@@ -4178,7 +4676,8 @@
       "Time": "1h 00min",
       "Title": "Baki Hanma vs. Kengan Ashura (2024)",
       "Trailer": "https://6wyav2r9i6j.premilkyway.com/hls2/01/04088/qvc2helx2c7h_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=cU-etNkbPwod1t2cSEcYaiL5j2lEWcYrwmDTPFl7P2E&s=1744615653&e=129600&f=20440071&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "144c"
     },
     {
       "Casts": [
@@ -4230,7 +4729,8 @@
       "Time": "1h 56min",
       "Title": "Ultraman: El Ascenso (2024)",
       "Trailer": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/01876/vgy3he1jonq2_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TgGYaAB8EUwB--wUshnCriv4b2Wx5qE4A7T9n-fi7RM&s=1744615550&e=129600&f=9384039&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "80d6"
     },
     {
       "Casts": [
@@ -4283,7 +4783,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e82d"
     },
     {
       "Casts": [
@@ -4334,7 +4835,8 @@
       "Time": "1h 39min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, tercera parte (2024)",
       "Trailer": "https://epx0gvhr49ln.milocdn.com/hls2/01/02034/zgp3n0067dvb_n/index-v1-a1.m3u8?t=gHR1bifR_W-_6r7AXwe6eC-yhA3BL687oj1NuYFQANE&s=1744613866&e=129600&f=10190423&srv=LoPv6hj4e5Ic&i=0.4&sp=500&p1=LoPv6hj4e5Ic&p2=LoPv6hj4e5Ic&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "578c"
     },
     {
       "Casts": [
@@ -4386,7 +4888,8 @@
       "Time": "1h 34min",
       "Title": "Mi villano favorito 4 (2024)",
       "Trailer": "https://g95mskivcjeu.milocdn.com/hls2/01/02119/nb601m7lhb8g_n/index-v1-a1.m3u8?t=ZcMERVOV-RTY9D3JOJJDAh9gFz6Kg4m-rPI92l3hwLE&s=1744613320&e=129600&f=10708943&srv=hNCriRPOtl4l&i=0.4&sp=500&p1=hNCriRPOtl4l&p2=hNCriRPOtl4l&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "3476"
     },
     {
       "Casts": [
@@ -4437,7 +4940,8 @@
       "Time": "1h 31min",
       "Title": "Blue Lock la película - episodio Nagi- (2024)",
       "Trailer": "https://18jij6rntf.premilkyway.com/hls2/01/05279/i96fh6koeadd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NNkHYdKP4xRJQ0SpL9YeNIclDKr4v41Tdz6k8DYG2gs&s=1744612969&e=129600&f=26399009&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "02fe"
     },
     {
       "Casts": [
@@ -4482,7 +4986,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9308"
     }
   ],
   "Aventura": [
@@ -4520,7 +5025,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "9ae8"
     },
     {
       "Casts": [
@@ -4551,7 +5057,8 @@
       "Time": "1h 30m",
       "Title": "Moana 2 (2024)",
       "Trailer": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03734/i0rzm7ytb78a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zAf0X5uYLDj7mQgu_QTR8teb9zpeIQ93U52ZZyNiqS0&s=1744617760&e=129600&f=18673377&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "bccf"
     },
     {
       "Casts": [
@@ -4603,7 +5110,8 @@
       "Time": "26 min",
       "Title": "Monsters: El infierno del dragón (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/02869/6134vtmbq5io_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OMhtIbB737pR31fE4h9zQi-ajXiCVpZQ-NN-hX3dvPg&s=1744617048&e=129600&f=14346876&srv=m2q5ea5w42hk&i=0.4&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "70ac"
     },
     {
       "Casts": [
@@ -4656,7 +5164,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "5f80"
     },
     {
       "Casts": [
@@ -4708,7 +5217,8 @@
       "Time": "1h 52min",
       "Title": "Mi querida oni (2024)",
       "Trailer": "https://j5j2vy2d9imb.milocdn.com/hls2/01/01762/yw3ae0bbveeh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YKI1VPlmkkefY_rUaVX-MxO898qbd1NtuzmVrqSyV0Q&s=1744615790&e=129600&f=8812660&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "0e8d"
     },
     {
       "Casts": [
@@ -4761,7 +5271,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7b47"
     },
     {
       "Casts": [
@@ -4813,7 +5324,8 @@
       "Time": "1h 41min",
       "Title": "Garfield: la película (2024)",
       "Trailer": "https://jje3d85cwvdg.milocdn.com/hls2/01/01995/mevywacop8l9_n/index-v1-a1.m3u8?t=nReBiED6hgJfvbxzo-mjJ6rFWoKnoXIJc52ZH0sVADI&s=1744614053&e=129600&f=10008159&srv=nzxfhnnl6es7&i=0.4&sp=500&p1=nzxfhnnl6es7&p2=nzxfhnnl6es7&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2a6c"
     },
     {
       "Casts": [
@@ -4865,7 +5377,8 @@
       "Time": "1h 26min",
       "Title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
       "Trailer": "https://tzoynoerzj90.milocdn.com/hls2/01/02098/wr3lzzl1d6ca_n/index-v1-a1.m3u8?t=wWGg8f5ulnHbTkTu_VuVUZZZNtqrlAf1xdaH5gHjGuY&s=1744613438&e=129600&f=10659755&srv=FDxNMKg55UEqp&i=0.4&sp=500&p1=FDxNMKg55UEqp&p2=FDxNMKg55UEqp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "50da"
     },
     {
       "Casts": [
@@ -4917,7 +5430,8 @@
       "Time": "1h 36min",
       "Title": "IntensaMente 2 (2024)",
       "Trailer": "https://v0esu3d58sme.milocdn.com/hls2/01/02185/2ajluf6gbjfc_n/index-v1-a1.m3u8?t=Sd0If-lVTbyUjEL8UdEQoBj3LBqtnxxnwUr3WqIgPNg&s=1744613187&e=129600&f=10926837&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b3ea"
     },
     {
       "Casts": [
@@ -4969,7 +5483,8 @@
       "Time": "1h 29min",
       "Title": "Mascotas En Apuros (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/05053/9ynk36j7gj77_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WNE_mhnVta230rggsAOhI7-p2xviSzi_XyCR1WfBARo&s=1744612897&e=129600&f=25268916&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ff52"
     },
     {
       "Casts": [
@@ -5014,7 +5529,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2ffd"
     },
     {
       "Casts": [
@@ -5051,7 +5567,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "795f"
     },
     {
       "Casts": [
@@ -5103,7 +5620,8 @@
       "Time": "24 minutos",
       "Title": "El búho y la niña: Casi una historia navideña (2024)",
       "Trailer": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/06532/tycoh44qviux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZG2At6nsCwO46ug2OVs_ZIdW3QKpQ5P9BONMKk30ar8&s=1744611478&e=129600&f=32661334&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e320"
     },
     {
       "Casts": [
@@ -5134,7 +5652,8 @@
       "Time": "1h 40m",
       "Title": "La Leyenda Del Dragón (Dragonkeeper)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05559/ekzrupijyoa5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=s24PJNzw1-Mt36fz20otP-iH9gd4SHnTkIxG7Jk4WuE&s=1744610333&e=129600&f=27798137&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1728"
     },
     {
       "Casts": [
@@ -5164,7 +5683,8 @@
       "Time": "2h 30m",
       "Title": "Isla bonita",
       "Trailer": "https://7f12638xuzfg.premilkyway.com/hls2/01/03089/4ocuomfa5g9v_n/index-v1-a1.m3u8?t=X8vMOfUHpbbSMhMzvDmS8sfH-8WRNY2i5IQpoosW9y4&s=1744610161&e=129600&f=15448943&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "8b29"
     },
     {
       "Casts": [
@@ -5216,10 +5736,58 @@
       "Time": "1h 24min",
       "Title": "La gran película de Baby Shark",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03782/ej25dhmbkx9e_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JapsIWSTAiqinoIPZT8QLdJRoM-Z6jCXHtoYD0r_SOU&s=1744615987&e=129600&f=18910773&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "2392"
     }
   ],
   "Terror": [
+    {
+      "Casts": [
+        {
+          "Actor": "Olivia Holt",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/c8mrNfxir0IfmiWLSUIKFO9QaeI.jpg"
+        },
+        {
+          "Actor": "Mason Gooding",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "Actor": "Gigi Zumbado",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+        },
+        {
+          "Actor": "Michaela Watkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+        },
+        {
+          "Actor": "Devon Sawa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+        },
+        {
+          "Actor": "Jordana Brewster",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+        },
+        {
+          "Actor": "Lauren O'Hara",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4E1mKfsDlPhbuBAjP42TwPMQQPT.jpg"
+        },
+        {
+          "Actor": "Alexander Walker",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dCggrsRxSGNNeNtkTOLWadf0XUs.jpg"
+        }
+      ],
+      "Description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "Genre": [
+        "Terror",
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 37m",
+      "Title": "Heart Eyes",
+      "Trailer": "https://niikaplayerr.com/stream/RmtrqB1GPJPXQE26oz0_Tw/hjkrhuihghfvu/1744820660/22120730/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -5256,10 +5824,93 @@
       "Time": "2h 09m",
       "Title": "Smile 2",
       "Trailer": "https://cv9fqnu812v.premilkyway.com/hls2/01/05227/3kwugtogncko_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=j6kaRA-8FZMj8t1wbE6OJFrK_kpHvUQ1Vh7g_kuCF8Q&s=1744610529&e=129600&f=26137622&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b689"
+    },
+    {
+      "id": "09b4",
+      "Casts": [
+        {
+          "Actor": "Danielle Deadwyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifQcCBM5B4dIJdz4B0laO4yQuzU.jpg"
+        },
+        {
+          "Actor": "Okwui Okpokwasili",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jJIm1dBQ3yYztPrMCwnKSJl9F0U.jpg"
+        },
+        {
+          "Actor": "Peyton Jackson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg"
+        },
+        {
+          "Actor": "Estella Kahiha",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uQF4rAu6DZRXF4zHugsr1mGs8Bj.jpg"
+        },
+        {
+          "Actor": "Russell Hornsby",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+        }
+      ],
+      "Description": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "Genre": [
+        "Terror",
+        "Misterio"
+      ],
+      "Time": "1h 27m",
+      "Title": "The Woman in the Yard",
+      "Trailer": "https://niikaplayerr.com/stream/NUGGK7gbeL7DOCwEHpuJPA/hjkrhuihghfvu/1744815668/22223597/index-f1-v1-a1.m3u8",
+      "Year": 2025
     }
   ],
   "Suspenso": [
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Quaid",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+        },
+        {
+          "Actor": "Amber Midthunder",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+        },
+        {
+          "Actor": "Ray Nicholson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+        },
+        {
+          "Actor": "Jacob Batalon",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "Actor": "Betty Gabriel",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/n67i3H3VM5quDQfcS591EbotPby.jpg"
+        },
+        {
+          "Actor": "Matt Walsh",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+        },
+        {
+          "Actor": "Evan Hengst",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+        },
+        {
+          "Actor": "Jessica Stanley",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bEH8ctUcVRCMkNUgpggziEDxOjc.jpg"
+        }
+      ],
+      "Description": "Cuando la chica de sus sueños es secuestrada, Nate, un chico corriente, convierte su incapacidad para sentir dolor en una fuerza inesperada en su lucha por recuperarla.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/miHABFjxMyoKKtFMzqfaD8cU5Sk.jpg",
+      "Genre": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "Time": "1h 50m",
+      "Title": "Novocaine",
+      "Trailer": "https://niikaplayerr.com/stream/slnL853jXqJXJLFDDU62zQ/hjkrhuihghfvu/1744819660/22138099/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -5309,7 +5960,8 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "87ad"
     }
   ],
   "Crimen": [
@@ -5341,7 +5993,8 @@
       "Time": "1h 58m",
       "Title": "The Menendez Brothers",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/06027/sis0jzfovv8m_,l,n,.urlset/index-f2-v1-a2.m3u8?t=S4_e0h6hidg9LSAuHIrKovMIlRsLCOnWgHOpPCog-RM&s=1744610435&e=129600&f=30135495&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f4fe"
     }
   ],
   "Animacion": [
@@ -5374,7 +6027,8 @@
       "Time": "1h 30m",
       "Title": "Moana 2 (2024)",
       "Trailer": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03734/i0rzm7ytb78a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zAf0X5uYLDj7mQgu_QTR8teb9zpeIQ93U52ZZyNiqS0&s=1744617760&e=129600&f=18673377&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "eedf"
     },
     {
       "Casts": [
@@ -5426,7 +6080,8 @@
       "Time": "26 min",
       "Title": "Monsters: El infierno del dragón (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/02869/6134vtmbq5io_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OMhtIbB737pR31fE4h9zQi-ajXiCVpZQ-NN-hX3dvPg&s=1744617048&e=129600&f=14346876&srv=m2q5ea5w42hk&i=0.4&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2909"
     },
     {
       "Casts": [
@@ -5477,7 +6132,8 @@
       "Time": "1h 25min",
       "Title": "Megamente contra el sindicato del mal (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03247/dlflrwpnwdfn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1oimjecCxR2VbcE6z0ygYfp2JXfJnbVwYqBVN71MBHw&s=1744617119&e=129600&f=16237556&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7b47"
     },
     {
       "Casts": [
@@ -5528,7 +6184,8 @@
       "Time": "1h 33min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1",
       "Trailer": "https://g4vsrqvtrj.premilkyway.com/hls2/01/02748/xg1ky0luuie7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=t6sjtyl0ZOLfjyrIsJ5j2BI_D1nFeTy_nUyljCbuzWk&s=1744616981&e=129600&f=13740024&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "66c3"
     },
     {
       "Casts": [
@@ -5579,7 +6236,8 @@
       "Time": "1h 40min",
       "Title": "El Pájaro Loco ¡Lío en el campamento! (2024)",
       "Trailer": "https://mx9skjnui4es.premilkyway.com/hls2/01/03563/tf57dfp93xcw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=wwN9ANFDwFS-fDlw1Seow104JsK-r5kiwVZR-JN_G6E&s=1744616883&e=129600&f=17817372&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1492"
     },
     {
       "Casts": [
@@ -5632,7 +6290,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "052a"
     },
     {
       "Casts": [
@@ -5683,7 +6342,8 @@
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
       "Trailer": "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/03375/0znt8ojrwkck_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=eS3knNto_npayHhW0pVF8oy2yXTj_Jwx0W2c5HLWPyE&s=1744616601&e=129600&f=25287787&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "0c43"
     },
     {
       "Casts": [
@@ -5734,7 +6394,8 @@
       "Time": "1h 26min",
       "Title": "Los Casagrande: La película (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03393/vpy4u7pek1cv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XsVqm2BiEgunFX_U6WOJWJPPOXekd65lCfdSAJ2tSh8&s=1744616447&e=129600&f=16967820&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4438"
     },
     {
       "Casts": [
@@ -5786,7 +6447,8 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://12kbrnhtqb58.milocdn.com/hls2/01/01199/n6vfnrhvfdzv_n/index-v1-a1.m3u8?t=wI_bcEW0ieyHx92mRVE4yovjO6UaVzL_eQjhKFLgwTc&s=1744616341&e=129600&f=5998895&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7aee"
     },
     {
       "Casts": [
@@ -5836,7 +6498,8 @@
       "Time": "1h 34min",
       "Title": "Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/03069/i8mijt97a3se_n/index-v1-a1.m3u8?t=4onTRq0Amf58O3B61r4wEmTsWGJVWP1EYD5za0Zs2L8&s=1744616281&e=129600&f=15349237&srv=jgy4rdrj5btf&i=0.4&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "dc1d"
     },
     {
       "Casts": [
@@ -5887,7 +6550,8 @@
       "Time": "1h 34min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/03707/e1r9zx9w1xm0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TDMpFicRG0EcDCIByGDwoTuU6v2qstpquyoGH8Xp2is&s=1744616183&e=129600&f=18539865&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d080"
     },
     {
       "Casts": [
@@ -5938,7 +6602,8 @@
       "Time": "1h 34min",
       "Title": "Telma, la unicornio (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03864/z928nlegiocz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=NVxIxYs6G7RmW60_A2ppjOnn4gpAQlPLSLW4FtfLfOI&s=1744615861&e=129600&f=19323485&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4019"
     },
     {
       "Casts": [
@@ -5990,7 +6655,8 @@
       "Time": "1h 52min",
       "Title": "Mi querida oni (2024)",
       "Trailer": "https://j5j2vy2d9imb.milocdn.com/hls2/01/01762/yw3ae0bbveeh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YKI1VPlmkkefY_rUaVX-MxO898qbd1NtuzmVrqSyV0Q&s=1744615790&e=129600&f=8812660&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2609"
     },
     {
       "Casts": [
@@ -6041,7 +6707,8 @@
       "Time": "1h 00min",
       "Title": "South Park: The End of Obesity (2024)",
       "Trailer": "https://dsltl0tjyahh.milocdn.com/hls2/01/01762/8zatdu2bkpl8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=eMWLZnhjdbSKw1gEMvgyl2nphaAwpGzu8lWxxHDcVSA&s=1744615724&e=129600&f=8810352&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e527"
     },
     {
       "Casts": [
@@ -6063,7 +6730,8 @@
       "Time": "1h 00min",
       "Title": "Baki Hanma vs. Kengan Ashura (2024)",
       "Trailer": "https://6wyav2r9i6j.premilkyway.com/hls2/01/04088/qvc2helx2c7h_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=cU-etNkbPwod1t2cSEcYaiL5j2lEWcYrwmDTPFl7P2E&s=1744615653&e=129600&f=20440071&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "059a"
     },
     {
       "Casts": [
@@ -6115,7 +6783,8 @@
       "Time": "1h 56min",
       "Title": "Ultraman: El Ascenso (2024)",
       "Trailer": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/01876/vgy3he1jonq2_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TgGYaAB8EUwB--wUshnCriv4b2Wx5qE4A7T9n-fi7RM&s=1744615550&e=129600&f=9384039&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6206"
     },
     {
       "Casts": [
@@ -6168,7 +6837,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2a03"
     },
     {
       "Casts": [
@@ -6220,7 +6890,8 @@
       "Time": "1h 24min",
       "Title": "Un Gato Con Suerte - 10 vidas (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/07506/norieae8x9u7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yfWBODe0F9FT8K2o0pD3ktsZZOrHHhOIDdDmzqsDX2k&s=1744615183&e=129600&f=37531003&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "293c"
     },
     {
       "Casts": [
@@ -6272,7 +6943,8 @@
       "Time": "1h 41min",
       "Title": "Garfield: la película (2024)",
       "Trailer": "https://jje3d85cwvdg.milocdn.com/hls2/01/01995/mevywacop8l9_n/index-v1-a1.m3u8?t=nReBiED6hgJfvbxzo-mjJ6rFWoKnoXIJc52ZH0sVADI&s=1744614053&e=129600&f=10008159&srv=nzxfhnnl6es7&i=0.4&sp=500&p1=nzxfhnnl6es7&p2=nzxfhnnl6es7&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2a2f"
     },
     {
       "Casts": [
@@ -6323,7 +6995,8 @@
       "Time": "1h 39min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, tercera parte (2024)",
       "Trailer": "https://epx0gvhr49ln.milocdn.com/hls2/01/02034/zgp3n0067dvb_n/index-v1-a1.m3u8?t=gHR1bifR_W-_6r7AXwe6eC-yhA3BL687oj1NuYFQANE&s=1744613866&e=129600&f=10190423&srv=LoPv6hj4e5Ic&i=0.4&sp=500&p1=LoPv6hj4e5Ic&p2=LoPv6hj4e5Ic&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "5f45"
     },
     {
       "Casts": [
@@ -6375,7 +7048,8 @@
       "Time": "1h 26min",
       "Title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
       "Trailer": "https://tzoynoerzj90.milocdn.com/hls2/01/02098/wr3lzzl1d6ca_n/index-v1-a1.m3u8?t=wWGg8f5ulnHbTkTu_VuVUZZZNtqrlAf1xdaH5gHjGuY&s=1744613438&e=129600&f=10659755&srv=FDxNMKg55UEqp&i=0.4&sp=500&p1=FDxNMKg55UEqp&p2=FDxNMKg55UEqp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6493"
     },
     {
       "Casts": [
@@ -6427,7 +7101,8 @@
       "Time": "1h 34min",
       "Title": "Mi villano favorito 4 (2024)",
       "Trailer": "https://g95mskivcjeu.milocdn.com/hls2/01/02119/nb601m7lhb8g_n/index-v1-a1.m3u8?t=ZcMERVOV-RTY9D3JOJJDAh9gFz6Kg4m-rPI92l3hwLE&s=1744613320&e=129600&f=10708943&srv=hNCriRPOtl4l&i=0.4&sp=500&p1=hNCriRPOtl4l&p2=hNCriRPOtl4l&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6b5c"
     },
     {
       "Casts": [
@@ -6479,7 +7154,8 @@
       "Time": "1h 36min",
       "Title": "IntensaMente 2 (2024)",
       "Trailer": "https://v0esu3d58sme.milocdn.com/hls2/01/02185/2ajluf6gbjfc_n/index-v1-a1.m3u8?t=Sd0If-lVTbyUjEL8UdEQoBj3LBqtnxxnwUr3WqIgPNg&s=1744613187&e=129600&f=10926837&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "99c0"
     },
     {
       "Casts": [
@@ -6530,7 +7206,8 @@
       "Time": "1h 31min",
       "Title": "Blue Lock la película - episodio Nagi- (2024)",
       "Trailer": "https://18jij6rntf.premilkyway.com/hls2/01/05279/i96fh6koeadd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NNkHYdKP4xRJQ0SpL9YeNIclDKr4v41Tdz6k8DYG2gs&s=1744612969&e=129600&f=26399009&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9e70"
     },
     {
       "Casts": [
@@ -6582,7 +7259,8 @@
       "Time": "1h 29min",
       "Title": "Mascotas En Apuros (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/05053/9ynk36j7gj77_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WNE_mhnVta230rggsAOhI7-p2xviSzi_XyCR1WfBARo&s=1744612897&e=129600&f=25268916&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ec36"
     },
     {
       "Casts": [
@@ -6616,7 +7294,8 @@
       "Time": "24 min",
       "Title": "Los tipos malos: ¿Truco o atraco? (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05050/348dvsiukk7m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=I8eT7zD6_jX06YkkDruokkfQj8TyuVJjsloIFZSAFKk&s=1744612414&e=129600&f=25254211&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "96da"
     },
     {
       "Casts": [
@@ -6667,7 +7346,8 @@
       "Time": "1h 42 min",
       "Title": "Robot salvaje (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/07435/ux2ccyn62o9i_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wO16Z-VrNE_0xjuGb4NdR20-rRLO7S3TSyI3a7flHyI&s=1744612313&e=129600&f=37177663&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b83d"
     },
     {
       "Casts": [
@@ -6718,7 +7398,8 @@
       "Time": "44 min",
       "Title": "LEGO Marvel Avengers: Misión Demolición (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05159/lfq9ur6s4lf9_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=23tkjvhIZVrGw7moayV0-PcRU4uQ8tgx6DiXeRVWFuw&s=1744612208&e=129600&f=25797218&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6edd"
     },
     {
       "Casts": [
@@ -6766,7 +7447,8 @@
       "Time": "1h 22m",
       "Title": "Los Green en la gran ciudad, la película: Salvando el Greenverso (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/06906/touojnimt4wc_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6ioLYPyruiSvdl9LqgSHhlw1IwKlnVC1QR9T8YLrhh0&s=1744612109&e=129600&f=34531919&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "bc2b"
     },
     {
       "Casts": [
@@ -6811,7 +7493,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f0b7"
     },
     {
       "Casts": [
@@ -6858,7 +7541,8 @@
       "Time": "1h 33m",
       "Title": "Piece by Piece (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05441/qkyjrahq4vt3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CPOacCVQZ1xBpHEhyJhLZia5GE0TwINAgNxdGtFyOm4&s=1744611832&e=129600&f=27206205&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "67b3"
     },
     {
       "Casts": [
@@ -6888,7 +7572,8 @@
       "Time": "1h 00m",
       "Title": "Look Back (2024)",
       "Trailer": "https://rfognbc0mhhj.premilkyway.com/hls2/01/05489/ewsxfnm0gtjq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5Ow59lCjGnyKYtUjKPQtsjPna1vRWvGnQUU1x2F66yo&s=1744611615&e=129600&f=27445421&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ac9f"
     },
     {
       "Casts": [
@@ -6918,7 +7603,8 @@
       "Time": "1h 25m",
       "Title": "Haikyu!! La batalla del basurero (2024)",
       "Trailer": "https://lvvb9d6p7p.premilkyway.com/hls2/01/05417/12xyj1ezz1gt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8l3Nrd-Q0OWwjRbLx_L4rj1eImLv2V1tXXtyzA6xkhU&s=1744611738&e=129600&f=27085810&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "6d27"
     },
     {
       "Casts": [
@@ -6970,7 +7656,8 @@
       "Time": "24 minutos",
       "Title": "El búho y la niña: Casi una historia navideña (2024)",
       "Trailer": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/06532/tycoh44qviux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZG2At6nsCwO46ug2OVs_ZIdW3QKpQ5P9BONMKk30ar8&s=1744611478&e=129600&f=32661334&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b555"
     },
     {
       "Casts": [
@@ -7007,7 +7694,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4836"
     },
     {
       "Casts": [
@@ -7038,7 +7726,8 @@
       "Time": "1h 40m",
       "Title": "La Leyenda Del Dragón (Dragonkeeper)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05559/ekzrupijyoa5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=s24PJNzw1-Mt36fz20otP-iH9gd4SHnTkIxG7Jk4WuE&s=1744610333&e=129600&f=27798137&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c289"
     },
     {
       "Casts": [
@@ -7067,7 +7756,8 @@
       "Time": "1h 19m",
       "Title": "Zuzubalandia: O Filme - La película",
       "Trailer": "https://qpljyz39awcoenfd.premilkyway.com/hls2/01/06050/rdfd6ckovtyv_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=_dtG5qZqMVHKcSl5Hu0uSSVrf-dUPLXOotIwlTJ2Zys&s=1744609888&e=129600&f=30252356&srv=7npihg0ee2yuu&i=0.4&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "db41"
     },
     {
       "Casts": [
@@ -7119,7 +7809,8 @@
       "Time": "1h 24min",
       "Title": "La gran película de Baby Shark",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03782/ej25dhmbkx9e_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JapsIWSTAiqinoIPZT8QLdJRoM-Z6jCXHtoYD0r_SOU&s=1744615987&e=129600&f=18910773&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "29b9"
     }
   ],
   "Fantasia": [
@@ -7157,7 +7848,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "04c8"
     },
     {
       "Casts": [
@@ -7209,7 +7901,8 @@
       "Time": "26 min",
       "Title": "Monsters: El infierno del dragón (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/02869/6134vtmbq5io_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=OMhtIbB737pR31fE4h9zQi-ajXiCVpZQ-NN-hX3dvPg&s=1744617048&e=129600&f=14346876&srv=m2q5ea5w42hk&i=0.4&sp=500&p1=m2q5ea5w42hk&p2=m2q5ea5w42hk&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "76a0"
     },
     {
       "Casts": [
@@ -7261,7 +7954,8 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://12kbrnhtqb58.milocdn.com/hls2/01/01199/n6vfnrhvfdzv_n/index-v1-a1.m3u8?t=wI_bcEW0ieyHx92mRVE4yovjO6UaVzL_eQjhKFLgwTc&s=1744616341&e=129600&f=5998895&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e139"
     },
     {
       "Casts": [
@@ -7312,7 +8006,8 @@
       "Time": "1h 34min",
       "Title": "Telma, la unicornio (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03864/z928nlegiocz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=NVxIxYs6G7RmW60_A2ppjOnn4gpAQlPLSLW4FtfLfOI&s=1744615861&e=129600&f=19323485&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ce5e"
     },
     {
       "Casts": [
@@ -7364,7 +8059,8 @@
       "Time": "1h 52min",
       "Title": "Mi querida oni (2024)",
       "Trailer": "https://j5j2vy2d9imb.milocdn.com/hls2/01/01762/yw3ae0bbveeh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YKI1VPlmkkefY_rUaVX-MxO898qbd1NtuzmVrqSyV0Q&s=1744615790&e=129600&f=8812660&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b4fa"
     },
     {
       "Casts": [
@@ -7415,7 +8111,8 @@
       "Time": "2h 40min",
       "Title": "Wicked (2024)",
       "Trailer": "https://hyydtkjwumnh.acek-cdn.com/hls2/01/03310/1i3dmy8fmlks_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w8Xqo6FqLCx5QWbQbQLLX0viSfLNFNPozESAHD2-aHI&s=1744615354&e=129600&f=16552823&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b288"
     },
     {
       "Casts": [
@@ -7467,7 +8164,8 @@
       "Time": "1h 24min",
       "Title": "Un Gato Con Suerte - 10 vidas (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/07506/norieae8x9u7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yfWBODe0F9FT8K2o0pD3ktsZZOrHHhOIDdDmzqsDX2k&s=1744615183&e=129600&f=37531003&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b30d"
     },
     {
       "Casts": [
@@ -7504,7 +8202,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c33c"
     },
     {
       "Casts": [
@@ -7556,7 +8255,8 @@
       "Time": "24 minutos",
       "Title": "El búho y la niña: Casi una historia navideña (2024)",
       "Trailer": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/06532/tycoh44qviux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZG2At6nsCwO46ug2OVs_ZIdW3QKpQ5P9BONMKk30ar8&s=1744611478&e=129600&f=32661334&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f8ae"
     },
     {
       "Casts": [
@@ -7608,7 +8308,8 @@
       "Time": "1h 24min",
       "Title": "La gran película de Baby Shark",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03782/ej25dhmbkx9e_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JapsIWSTAiqinoIPZT8QLdJRoM-Z6jCXHtoYD0r_SOU&s=1744615987&e=129600&f=18910773&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "c55d"
     }
   ],
   "Cienciaficcion": [
@@ -7661,7 +8362,8 @@
       "Time": "1h 59m",
       "Title": "Capitán América: Brave New World",
       "Trailer": "https://niikaplayerr.com/stream/n5pq4eBsFFLGIlK-lMFwmA/hjkrhuihghfvu/1744737386/22204457/index-f1-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "3f90"
     },
     {
       "Casts": [
@@ -7712,7 +8414,8 @@
       "Time": "1h 25min",
       "Title": "Megamente contra el sindicato del mal (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03247/dlflrwpnwdfn_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1oimjecCxR2VbcE6z0ygYfp2JXfJnbVwYqBVN71MBHw&s=1744617119&e=129600&f=16237556&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2bbf"
     },
     {
       "Casts": [
@@ -7763,7 +8466,8 @@
       "Time": "1h 33min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1",
       "Trailer": "https://g4vsrqvtrj.premilkyway.com/hls2/01/02748/xg1ky0luuie7_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=t6sjtyl0ZOLfjyrIsJ5j2BI_D1nFeTy_nUyljCbuzWk&s=1744616981&e=129600&f=13740024&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1fc7"
     },
     {
       "Casts": [
@@ -7814,7 +8518,8 @@
       "Time": "1h 34min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, parte 2 (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/03707/e1r9zx9w1xm0_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=TDMpFicRG0EcDCIByGDwoTuU6v2qstpquyoGH8Xp2is&s=1744616183&e=129600&f=18539865&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b1ed"
     },
     {
       "Casts": [
@@ -7866,7 +8571,8 @@
       "Time": "1h 56min",
       "Title": "Ultraman: El Ascenso (2024)",
       "Trailer": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/01876/vgy3he1jonq2_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TgGYaAB8EUwB--wUshnCriv4b2Wx5qE4A7T9n-fi7RM&s=1744615550&e=129600&f=9384039&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f529"
     },
     {
       "Casts": [
@@ -7917,7 +8623,8 @@
       "Time": "1h 39min",
       "Title": "Liga de la Justicia: Crisis en Tierras Infinitas, tercera parte (2024)",
       "Trailer": "https://epx0gvhr49ln.milocdn.com/hls2/01/02034/zgp3n0067dvb_n/index-v1-a1.m3u8?t=gHR1bifR_W-_6r7AXwe6eC-yhA3BL687oj1NuYFQANE&s=1744613866&e=129600&f=10190423&srv=LoPv6hj4e5Ic&i=0.4&sp=500&p1=LoPv6hj4e5Ic&p2=LoPv6hj4e5Ic&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2c6e"
     },
     {
       "Casts": [
@@ -7968,7 +8675,8 @@
       "Time": "1h 42 min",
       "Title": "Robot salvaje (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/07435/ux2ccyn62o9i_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wO16Z-VrNE_0xjuGb4NdR20-rRLO7S3TSyI3a7flHyI&s=1744612313&e=129600&f=37177663&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "14b7"
     },
     {
       "Casts": [
@@ -8019,7 +8727,8 @@
       "Time": "44 min",
       "Title": "LEGO Marvel Avengers: Misión Demolición (2024)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05159/lfq9ur6s4lf9_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=23tkjvhIZVrGw7moayV0-PcRU4uQ8tgx6DiXeRVWFuw&s=1744612208&e=129600&f=25797218&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a8a6"
     },
     {
       "Casts": [
@@ -8064,7 +8773,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2061"
     }
   ],
   "Documental": [
@@ -8113,7 +8823,8 @@
       "Time": "1h 33m",
       "Title": "Piece by Piece (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05441/qkyjrahq4vt3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CPOacCVQZ1xBpHEhyJhLZia5GE0TwINAgNxdGtFyOm4&s=1744611832&e=129600&f=27206205&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a4d5"
     },
     {
       "Casts": [
@@ -8143,7 +8854,8 @@
       "Time": "1h 58m",
       "Title": "The Menendez Brothers",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/06027/sis0jzfovv8m_,l,n,.urlset/index-f2-v1-a2.m3u8?t=S4_e0h6hidg9LSAuHIrKovMIlRsLCOnWgHOpPCog-RM&s=1744610435&e=129600&f=30135495&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2494"
     },
     {
       "Casts": [
@@ -8168,7 +8880,8 @@
       "Time": "2h 30m",
       "Title": "Los Niños Perdidos",
       "Trailer": "https://lvvb9d6p7p.premilkyway.com/hls2/01/05728/f5a3thmodj33_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=vg48Rv84kWiJbIvxf8tDvChseLmOfIo0n4wTYryM-eg&s=1744610245&e=129600&f=28644770&srv=qajructf54pm&i=0.4&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "eb09"
     }
   ],
   "Drama": [
@@ -8200,7 +8913,8 @@
       "Time": "1h 53m",
       "Title": "Te llevo en el alma (2024)",
       "Trailer": "https://cq0btxwv8nim.milocdn.com/hls2/01/01622/lrvloymr91c0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=y_uE87qzbU2f3OLME83su21JQOD8HpuUybDrV59awc4&s=1744617696&e=129600&f=8110311&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "0634"
     },
     {
       "Casts": [
@@ -8250,7 +8964,8 @@
       "Time": "1h 44min",
       "Title": "Disco, Ibiza, Locomía (2024)",
       "Trailer": "https://vpk1g9itdgtk.acek-cdn.com/hls2/01/02254/2sexh6hj6etl_h/index-v1-a1.m3u8?t=1Dybv97G94pCP6nUG3XjgFjQqGvNj6XrzLcm-W94nTc&s=1744617625&e=129600&f=11305112&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d51c"
     },
     {
       "Casts": [
@@ -8301,7 +9016,8 @@
       "Time": "1h 45min",
       "Title": "Bob Marley: One Love (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03365/rv1e0ug0ao7f_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hpwdD9-MX7x1uns9OaM5293c05v3Vnv_3A-ZlFn8SHU&s=1744617361&e=129600&f=16826118&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "bdc9"
     },
     {
       "Casts": [
@@ -8351,7 +9067,8 @@
       "Time": "2h 02min",
       "Title": "Back to Black (2024)",
       "Trailer": "https://be7713.rcr82.waw05.cdn255.com/hls2/01/06291/3q60ldh4u6lz_n/index-v1-a1.m3u8?t=cG5u0DGBSDAw07E5Lkb7I5-MQsHvm7QU4mYPg-TCiUw&s=1744616755&e=10800&f=35825424&srv=02&asn=6147&sp=4000&p=",
-      "Year": 2024
+      "Year": 2024,
+      "id": "319d"
     },
     {
       "Casts": [
@@ -8402,7 +9119,8 @@
       "Time": "2h 40min",
       "Title": "Wicked (2024)",
       "Trailer": "https://hyydtkjwumnh.acek-cdn.com/hls2/01/03310/1i3dmy8fmlks_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w8Xqo6FqLCx5QWbQbQLLX0viSfLNFNPozESAHD2-aHI&s=1744615354&e=129600&f=16552823&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "15b5"
     },
     {
       "Casts": [
@@ -8453,7 +9171,8 @@
       "Time": "1h 31min",
       "Title": "Blue Lock la película - episodio Nagi- (2024)",
       "Trailer": "https://18jij6rntf.premilkyway.com/hls2/01/05279/i96fh6koeadd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=NNkHYdKP4xRJQ0SpL9YeNIclDKr4v41Tdz6k8DYG2gs&s=1744612969&e=129600&f=26399009&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9dbb"
     },
     {
       "Casts": [
@@ -8483,7 +9202,8 @@
       "Time": "1h 00m",
       "Title": "Look Back (2024)",
       "Trailer": "https://rfognbc0mhhj.premilkyway.com/hls2/01/05489/ewsxfnm0gtjq_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5Ow59lCjGnyKYtUjKPQtsjPna1vRWvGnQUU1x2F66yo&s=1744611615&e=129600&f=27445421&srv=KsLkgBWej56z&i=0.4&sp=500&p1=KsLkgBWej56z&p2=KsLkgBWej56z&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d4dc"
     },
     {
       "Casts": [
@@ -8513,7 +9233,8 @@
       "Time": "1h 25m",
       "Title": "Haikyu!! La batalla del basurero (2024)",
       "Trailer": "https://lvvb9d6p7p.premilkyway.com/hls2/01/05417/12xyj1ezz1gt_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=8l3Nrd-Q0OWwjRbLx_L4rj1eImLv2V1tXXtyzA6xkhU&s=1744611738&e=129600&f=27085810&srv=g3qezmygwi76p&i=0.4&sp=500&p1=g3qezmygwi76p&p2=g3qezmygwi76p&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ef4d"
     },
     {
       "Casts": [
@@ -8550,10 +9271,92 @@
       "Time": "1h 53m",
       "Title": "Entre Lobos",
       "Trailer": "https://eomoacrfcwpd.premilkyway.com/hls2/01/03747/2r859tchzoqx_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=XS1hFYMZcstb4xufXzptwdjxD3O4lRQoZTQhtoW8HGc&s=1744610043&e=129600&f=18735806&srv=fbIjIZy3pIBwE0S&i=0.4&sp=500&p1=fbIjIZy3pIBwE0S&p2=fbIjIZy3pIBwE0S&asn=6147",
-      "Year": 2010
+      "Year": 2010,
+      "id": "44a5"
     }
   ],
   "Romance": [
+    {
+      "Casts": [
+        {
+          "Actor": "Olivia Holt",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/c8mrNfxir0IfmiWLSUIKFO9QaeI.jpg"
+        },
+        {
+          "Actor": "Mason Gooding",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+        },
+        {
+          "Actor": "Gigi Zumbado",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ytuLWDoI558qsKNiA54qt0aACvh.jpg"
+        },
+        {
+          "Actor": "Michaela Watkins",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+        },
+        {
+          "Actor": "Devon Sawa",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+        },
+        {
+          "Actor": "Jordana Brewster",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+        },
+        {
+          "Actor": "Lauren O'Hara",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/4E1mKfsDlPhbuBAjP42TwPMQQPT.jpg"
+        },
+        {
+          "Actor": "Alexander Walker",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/dCggrsRxSGNNeNtkTOLWadf0XUs.jpg"
+        }
+      ],
+      "Description": "Dos compañeros de trabajo son confundidos con una pareja por un asesino en San Francisco el día de San Valentín. Obligados a eludir al asesino, navegan por el paisaje romántico de la ciudad mientras trabajan juntos para sobrevivir.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "Genre": [
+        "Terror",
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 37m",
+      "Title": "Heart Eyes",
+      "Trailer": "https://niikaplayerr.com/stream/RmtrqB1GPJPXQE26oz0_Tw/hjkrhuihghfvu/1744820660/22120730/index-f1-v1-a1.m3u8",
+      "Year": 2025
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Khanyi Mbau",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Ayanda Borotho",
+          "PicUrl": "https://cdn-icons-png.flaticon.com/512/3143/3143082.png"
+        },
+        {
+          "Actor": "Jesse Suntele",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/bN70YYDUDCwzrqHrqD9ZwcMGFPC.jpg"
+        },
+        {
+          "Actor": "Khosi Ngema",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lmNd3QN0huNZxRm2jAD4LgJckJg.jpg"
+        },
+        {
+          "Actor": "Connie Chiume",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/3ET4rE2aAEyczhognWWi1rPAdWo.jpg"
+        }
+      ],
+      "Description": "Dos madres, que pasan de ser las mejores amigas a archienemigas, inician una guerra entre sus vecindarios cuando se enteran de que sus hijos se han enamorado.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/tS4VKxhLaNvTeTxrdNSas4qTCAa.jpg",
+      "Genre": [
+        "Comedia",
+        "Romance"
+      ],
+      "Time": "1h 32m",
+      "Title": "Meet the Khumalos",
+      "Trailer": "https://mkz8cqibrwia.acek-cdn.com/hls2/01/04424/fusm2xy15k9m_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=SGAy-XBdRNYsshVMzWIZhhBmL-nmbUqDXNTf4kDLWLQ&s=1744777037&e=129600&f=22120750&srv=KurDwBvf3IESNvT&i=0.4&sp=500&p1=KurDwBvf3IESNvT&p2=KurDwBvf3IESNvT&asn=6147",
+      "Year": 2025
+    },
     {
       "Casts": [
         {
@@ -8603,7 +9406,8 @@
       "Time": "1h 34min",
       "Title": "Al borde del abismo (2024)",
       "Trailer": "https://ggpjq6gmqddb.acek-cdn.com/hls2/01/02038/a6jzpijluxxy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WyHCcXRsMXo4eEa7KpUslYtHt0inpBB80eZLnKXrPhw&s=1744617819&e=129600&f=10192422&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1aab"
     },
     {
       "Casts": [
@@ -8634,7 +9438,8 @@
       "Time": "1h 30m",
       "Title": "La idea de tenerte (2024)",
       "Trailer": "https://s1yos6hpnkhg.milocdn.com/hls2/01/01622/4698sqd28et8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=aR4urbT-Hj8pXDw2h8ZoEfvB3-Ld9r1y01TyLa7Hu3s&s=1744617539&e=129600&f=8110241&srv=oGzPVrx0r2FSm&i=0.4&sp=500&p1=oGzPVrx0r2FSm&p2=oGzPVrx0r2FSm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4f11"
     },
     {
       "Casts": [
@@ -8685,7 +9490,8 @@
       "Time": "1h 31min",
       "Title": "Música (2024)",
       "Trailer": "https://a99wtmgqgife.premilkyway.com/hls2/01/03510/p1kwcq5me3o9_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=vx62HZVzb5-M9Oa4nMxZtDAv92Q3S4rjTC7VVfkYvUM&s=1744617243&e=129600&f=17554874&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "43d9"
     },
     {
       "Casts": [
@@ -8736,7 +9542,8 @@
       "Time": "2h 40min",
       "Title": "Wicked (2024)",
       "Trailer": "https://hyydtkjwumnh.acek-cdn.com/hls2/01/03310/1i3dmy8fmlks_,l,n,.urlset/index-f1-v1-a1.m3u8?t=w8Xqo6FqLCx5QWbQbQLLX0viSfLNFNPozESAHD2-aHI&s=1744615354&e=129600&f=16552823&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f25e"
     }
   ],
   "Familia": [
@@ -8774,7 +9581,8 @@
       "Time": "1h 41m",
       "Title": "Una película de Minecraft",
       "Trailer": "https://hlsflex.com/stream/hjrFrFZOE58E742ID7JoMA/kjhhiuahiuhgihdf/1744737500/46865149/index-f2-v1-a1.m3u8",
-      "Year": 2025
+      "Year": 2025,
+      "id": "6cab"
     },
     {
       "Casts": [
@@ -8805,7 +9613,8 @@
       "Time": "1h 30m",
       "Title": "Moana 2 (2024)",
       "Trailer": "https://pikao7r5wkee.acek-cdn.com/hls2/01/03734/i0rzm7ytb78a_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=zAf0X5uYLDj7mQgu_QTR8teb9zpeIQ93U52ZZyNiqS0&s=1744617760&e=129600&f=18673377&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "67bc"
     },
     {
       "Casts": [
@@ -8856,7 +9665,8 @@
       "Time": "1h 40min",
       "Title": "El Pájaro Loco ¡Lío en el campamento! (2024)",
       "Trailer": "https://mx9skjnui4es.premilkyway.com/hls2/01/03563/tf57dfp93xcw_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=wwN9ANFDwFS-fDlw1Seow104JsK-r5kiwVZR-JN_G6E&s=1744616883&e=129600&f=17817372&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b04e"
     },
     {
       "Casts": [
@@ -8909,7 +9719,8 @@
       "Time": "1h 34min",
       "Title": "Kung Fu Panda 4 (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03541/mr09gee04sak_,n,h,.urlset/index-f1-v1-a1.m3u8?t=FfDK2OYolVSeq2fuoWzM79PVf4xVJvx9YHMl2Lcrkx4&s=1744616807&e=129600&f=17706318&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a858"
     },
     {
       "Casts": [
@@ -8960,7 +9771,8 @@
       "Time": "1h 26min",
       "Title": "Los Casagrande: La película (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03393/vpy4u7pek1cv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=XsVqm2BiEgunFX_U6WOJWJPPOXekd65lCfdSAJ2tSh8&s=1744616447&e=129600&f=16967820&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "089a"
     },
     {
       "Casts": [
@@ -9012,7 +9824,8 @@
       "Time": "1h 32min",
       "Title": "Orión y la oscuridad (2024)",
       "Trailer": "https://12kbrnhtqb58.milocdn.com/hls2/01/01199/n6vfnrhvfdzv_n/index-v1-a1.m3u8?t=wI_bcEW0ieyHx92mRVE4yovjO6UaVzL_eQjhKFLgwTc&s=1744616341&e=129600&f=5998895&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e0fb"
     },
     {
       "Casts": [
@@ -9062,7 +9875,8 @@
       "Time": "1h 34min",
       "Title": "Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)",
       "Trailer": "https://r63hfpdmodtc.premilkyway.com/hls2/01/03069/i8mijt97a3se_n/index-v1-a1.m3u8?t=4onTRq0Amf58O3B61r4wEmTsWGJVWP1EYD5za0Zs2L8&s=1744616281&e=129600&f=15349237&srv=jgy4rdrj5btf&i=0.4&sp=500&p1=jgy4rdrj5btf&p2=jgy4rdrj5btf&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "63aa"
     },
     {
       "Casts": [
@@ -9113,7 +9927,8 @@
       "Time": "1h 34min",
       "Title": "Telma, la unicornio (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/03864/z928nlegiocz_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=NVxIxYs6G7RmW60_A2ppjOnn4gpAQlPLSLW4FtfLfOI&s=1744615861&e=129600&f=19323485&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9a35"
     },
     {
       "Casts": [
@@ -9165,7 +9980,8 @@
       "Time": "1h 52min",
       "Title": "Mi querida oni (2024)",
       "Trailer": "https://j5j2vy2d9imb.milocdn.com/hls2/01/01762/yw3ae0bbveeh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YKI1VPlmkkefY_rUaVX-MxO898qbd1NtuzmVrqSyV0Q&s=1744615790&e=129600&f=8812660&srv=DsXuOOMdQ9R5O&i=0.4&sp=500&p1=DsXuOOMdQ9R5O&p2=DsXuOOMdQ9R5O&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b2bf"
     },
     {
       "Casts": [
@@ -9217,7 +10033,8 @@
       "Time": "1h 56min",
       "Title": "Ultraman: El Ascenso (2024)",
       "Trailer": "https://ue3vhghuoymj.acek-cdn.com/hls2/01/01876/vgy3he1jonq2_,l,n,.urlset/index-f1-v1-a1.m3u8?t=TgGYaAB8EUwB--wUshnCriv4b2Wx5qE4A7T9n-fi7RM&s=1744615550&e=129600&f=9384039&srv=FSaCEkUMsJgageo&i=0.4&sp=500&p1=FSaCEkUMsJgageo&p2=FSaCEkUMsJgageo&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9b55"
     },
     {
       "Casts": [
@@ -9270,7 +10087,8 @@
       "Time": "1h 42min",
       "Title": "Sin tiempo para espiar: Una peli de Una casa de locos (2024)",
       "Trailer": "https://no6ojcmmspit.acek-cdn.com/hls2/01/01903/1pyp4qqo9zfa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=tavfUAo-lrJJeCJUoIvvV_sIh7ZVeBJD1DA5Fy4MT8w&s=1744615438&e=129600&f=9516280&srv=gK157cSXFOMYx&i=0.4&sp=500&p1=gK157cSXFOMYx&p2=gK157cSXFOMYx&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "c90f"
     },
     {
       "Casts": [
@@ -9322,7 +10140,8 @@
       "Time": "1h 24min",
       "Title": "Un Gato Con Suerte - 10 vidas (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/07506/norieae8x9u7_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=yfWBODe0F9FT8K2o0pD3ktsZZOrHHhOIDdDmzqsDX2k&s=1744615183&e=129600&f=37531003&srv=0wnh534rdgf989&i=0.4&sp=500&p1=0wnh534rdgf989&p2=0wnh534rdgf989&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b3aa"
     },
     {
       "Casts": [
@@ -9374,7 +10193,8 @@
       "Time": "1h 41min",
       "Title": "Garfield: la película (2024)",
       "Trailer": "https://jje3d85cwvdg.milocdn.com/hls2/01/01995/mevywacop8l9_n/index-v1-a1.m3u8?t=nReBiED6hgJfvbxzo-mjJ6rFWoKnoXIJc52ZH0sVADI&s=1744614053&e=129600&f=10008159&srv=nzxfhnnl6es7&i=0.4&sp=500&p1=nzxfhnnl6es7&p2=nzxfhnnl6es7&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "d190"
     },
     {
       "Casts": [
@@ -9426,7 +10246,8 @@
       "Time": "1h 26min",
       "Title": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
       "Trailer": "https://tzoynoerzj90.milocdn.com/hls2/01/02098/wr3lzzl1d6ca_n/index-v1-a1.m3u8?t=wWGg8f5ulnHbTkTu_VuVUZZZNtqrlAf1xdaH5gHjGuY&s=1744613438&e=129600&f=10659755&srv=FDxNMKg55UEqp&i=0.4&sp=500&p1=FDxNMKg55UEqp&p2=FDxNMKg55UEqp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "9ab1"
     },
     {
       "Casts": [
@@ -9478,7 +10299,8 @@
       "Time": "1h 34min",
       "Title": "Mi villano favorito 4 (2024)",
       "Trailer": "https://g95mskivcjeu.milocdn.com/hls2/01/02119/nb601m7lhb8g_n/index-v1-a1.m3u8?t=ZcMERVOV-RTY9D3JOJJDAh9gFz6Kg4m-rPI92l3hwLE&s=1744613320&e=129600&f=10708943&srv=hNCriRPOtl4l&i=0.4&sp=500&p1=hNCriRPOtl4l&p2=hNCriRPOtl4l&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7fdf"
     },
     {
       "Casts": [
@@ -9530,7 +10352,8 @@
       "Time": "1h 36min",
       "Title": "IntensaMente 2 (2024)",
       "Trailer": "https://v0esu3d58sme.milocdn.com/hls2/01/02185/2ajluf6gbjfc_n/index-v1-a1.m3u8?t=Sd0If-lVTbyUjEL8UdEQoBj3LBqtnxxnwUr3WqIgPNg&s=1744613187&e=129600&f=10926837&srv=UV00d1a9AVGe&i=0.4&sp=500&p1=UV00d1a9AVGe&p2=UV00d1a9AVGe&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7b64"
     },
     {
       "Casts": [
@@ -9582,7 +10405,8 @@
       "Time": "1h 29min",
       "Title": "Mascotas En Apuros (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/05053/9ynk36j7gj77_,l,n,.urlset/index-f1-v1-a1.m3u8?t=WNE_mhnVta230rggsAOhI7-p2xviSzi_XyCR1WfBARo&s=1744612897&e=129600&f=25268916&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4062"
     },
     {
       "Casts": [
@@ -9633,7 +10457,8 @@
       "Time": "1h 42 min",
       "Title": "Robot salvaje (2024)",
       "Trailer": "https://27u55xdzmm9q.premilkyway.com/hls2/01/07435/ux2ccyn62o9i_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wO16Z-VrNE_0xjuGb4NdR20-rRLO7S3TSyI3a7flHyI&s=1744612313&e=129600&f=37177663&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7001"
     },
     {
       "Casts": [
@@ -9681,7 +10506,8 @@
       "Time": "1h 22m",
       "Title": "Los Green en la gran ciudad, la película: Salvando el Greenverso (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/06906/touojnimt4wc_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6ioLYPyruiSvdl9LqgSHhlw1IwKlnVC1QR9T8YLrhh0&s=1744612109&e=129600&f=34531919&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "954f"
     },
     {
       "Casts": [
@@ -9726,7 +10552,8 @@
       "Time": "1h 44m",
       "Title": "Transformers One (2024)",
       "Trailer": "https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/05225/3uj23wgmiox1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=x3BxaMN3-bHOHlLeN_5G6_36efHX3ivvPY8flP5Pa2M&s=1744611905&e=129600&f=26129005&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "e094"
     },
     {
       "Casts": [
@@ -9757,7 +10584,8 @@
       "Time": "1h 40m",
       "Title": "La Leyenda Del Dragón (Dragonkeeper)",
       "Trailer": "https://cuyyro04xrqrh.premilkyway.com/hls2/01/05559/ekzrupijyoa5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=s24PJNzw1-Mt36fz20otP-iH9gd4SHnTkIxG7Jk4WuE&s=1744610333&e=129600&f=27798137&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "05fb"
     },
     {
       "Casts": [
@@ -9809,7 +10637,8 @@
       "Time": "24 minutos",
       "Title": "El búho y la niña: Casi una historia navideña (2024)",
       "Trailer": "https://in1rhjc5cqhz.premilkyway.com/hls2/01/06532/tycoh44qviux_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ZG2At6nsCwO46ug2OVs_ZIdW3QKpQ5P9BONMKk30ar8&s=1744611478&e=129600&f=32661334&srv=meuzahgd24x5v&i=0.4&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "05a4"
     },
     {
       "Casts": [
@@ -9846,7 +10675,8 @@
       "Time": "1h 50m",
       "Title": "Hechizados (2024)",
       "Trailer": "https://m5qilv3g2l.premilkyway.com/hls2/01/06440/rsr3siqgog9s_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=zfcT2fgMvJ6eUAQrtPg42BePbOIXN4mFRsdcUGfkCLU&s=1744611344&e=129600&f=32203753&srv=kxbg0h85dae8&i=0.4&sp=500&p1=kxbg0h85dae8&p2=kxbg0h85dae8&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4f97"
     },
     {
       "Casts": [
@@ -9898,13 +10728,12 @@
       "Time": "1h 24min",
       "Title": "La gran película de Baby Shark",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03782/ej25dhmbkx9e_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=JapsIWSTAiqinoIPZT8QLdJRoM-Z6jCXHtoYD0r_SOU&s=1744615987&e=129600&f=18910773&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2023
+      "Year": 2023,
+      "id": "663b"
     }
   ],
-  "Animes": [
-  ],
-  "Guerra": [
-  ],
+  "Animes": [],
+  "Guerra": [],
   "Historia": [
     {
       "Casts": [
@@ -9955,7 +10784,8 @@
       "Time": "1h 45min",
       "Title": "Bob Marley: One Love (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03365/rv1e0ug0ao7f_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hpwdD9-MX7x1uns9OaM5293c05v3Vnv_3A-ZlFn8SHU&s=1744617361&e=129600&f=16826118&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "1652"
     }
   ],
   "Musical": [
@@ -10008,7 +10838,8 @@
       "Time": "1h 34min",
       "Title": "Al borde del abismo (2024)",
       "Trailer": "https://ggpjq6gmqddb.acek-cdn.com/hls2/01/02038/a6jzpijluxxy_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=WyHCcXRsMXo4eEa7KpUslYtHt0inpBB80eZLnKXrPhw&s=1744617819&e=129600&f=10192422&srv=Z8VeXJnplmoxw&i=0.4&sp=500&p1=Z8VeXJnplmoxw&p2=Z8VeXJnplmoxw&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2d0c"
     },
     {
       "Casts": [
@@ -10038,7 +10869,8 @@
       "Time": "1h 53m",
       "Title": "Te llevo en el alma (2024)",
       "Trailer": "https://cq0btxwv8nim.milocdn.com/hls2/01/01622/lrvloymr91c0_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=y_uE87qzbU2f3OLME83su21JQOD8HpuUybDrV59awc4&s=1744617696&e=129600&f=8110311&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8571"
     },
     {
       "Casts": [
@@ -10088,7 +10920,8 @@
       "Time": "1h 44min",
       "Title": "Disco, Ibiza, Locomía (2024)",
       "Trailer": "https://vpk1g9itdgtk.acek-cdn.com/hls2/01/02254/2sexh6hj6etl_h/index-v1-a1.m3u8?t=1Dybv97G94pCP6nUG3XjgFjQqGvNj6XrzLcm-W94nTc&s=1744617625&e=129600&f=11305112&srv=lrAomU956ig7J&i=0.4&sp=500&p1=lrAomU956ig7J&p2=lrAomU956ig7J&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2279"
     },
     {
       "Casts": [
@@ -10119,7 +10952,8 @@
       "Time": "1h 30m",
       "Title": "La idea de tenerte (2024)",
       "Trailer": "https://s1yos6hpnkhg.milocdn.com/hls2/01/01622/4698sqd28et8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=aR4urbT-Hj8pXDw2h8ZoEfvB3-Ld9r1y01TyLa7Hu3s&s=1744617539&e=129600&f=8110241&srv=oGzPVrx0r2FSm&i=0.4&sp=500&p1=oGzPVrx0r2FSm&p2=oGzPVrx0r2FSm&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "8be0"
     },
     {
       "Casts": [
@@ -10170,7 +11004,8 @@
       "Time": "1h 45min",
       "Title": "Bob Marley: One Love (2024)",
       "Trailer": "https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03365/rv1e0ug0ao7f_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hpwdD9-MX7x1uns9OaM5293c05v3Vnv_3A-ZlFn8SHU&s=1744617361&e=129600&f=16826118&srv=vy7cie2tqwc2cgp&i=0.4&sp=500&p1=vy7cie2tqwc2cgp&p2=vy7cie2tqwc2cgp&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "49c2"
     },
     {
       "Casts": [
@@ -10221,7 +11056,8 @@
       "Time": "1h 31min",
       "Title": "Música (2024)",
       "Trailer": "https://a99wtmgqgife.premilkyway.com/hls2/01/03510/p1kwcq5me3o9_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=vx62HZVzb5-M9Oa4nMxZtDAv92Q3S4rjTC7VVfkYvUM&s=1744617243&e=129600&f=17554874&srv=6Y0nzgZi8BCfuhZ&i=0.4&sp=500&p1=6Y0nzgZi8BCfuhZ&p2=6Y0nzgZi8BCfuhZ&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "f5ca"
     },
     {
       "Casts": [
@@ -10271,7 +11107,8 @@
       "Time": "1h 49min",
       "Title": "Technoboys (2024)",
       "Trailer": "https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/04897/x46jlppfcmah_,l,n,.urlset/index-f1-v1-a1.m3u8?t=cyXkI5qV6nRtFV7BoHT1-EeQLQZzWPYi5qt3hQknz3M&s=1744617184&e=129600&f=24487654&srv=dwjdqozeoybz&i=0.4&sp=500&p1=dwjdqozeoybz&p2=dwjdqozeoybz&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "69bb"
     },
     {
       "Casts": [
@@ -10322,7 +11159,8 @@
       "Time": "1h 35min",
       "Title": "El Arca de Noé (2024)",
       "Trailer": "https://x8oi6owwkjoewr.premilkyway.com/hls2/01/03375/0znt8ojrwkck_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=eS3knNto_npayHhW0pVF8oy2yXTj_Jwx0W2c5HLWPyE&s=1744616601&e=129600&f=25287787&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "2cec"
     },
     {
       "Casts": [
@@ -10372,7 +11210,8 @@
       "Time": "2h 02min",
       "Title": "Back to Black (2024)",
       "Trailer": "https://be7713.rcr82.waw05.cdn255.com/hls2/01/06291/3q60ldh4u6lz_n/index-v1-a1.m3u8?t=cG5u0DGBSDAw07E5Lkb7I5-MQsHvm7QU4mYPg-TCiUw&s=1744616755&e=10800&f=35825424&srv=02&asn=6147&sp=4000&p=",
-      "Year": 2024
+      "Year": 2024,
+      "id": "a851"
     },
     {
       "Casts": [
@@ -10419,7 +11258,8 @@
       "Time": "1h 33m",
       "Title": "Piece by Piece (2024)",
       "Trailer": "https://uk2y0xwy2xup0.premilkyway.com/hls2/01/05441/qkyjrahq4vt3_,l,n,.urlset/index-f1-v1-a1.m3u8?t=CPOacCVQZ1xBpHEhyJhLZia5GE0TwINAgNxdGtFyOm4&s=1744611832&e=129600&f=27206205&srv=vpusxz6e9t3q&i=0.4&sp=500&p1=vpusxz6e9t3q&p2=vpusxz6e9t3q&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "b899"
     }
   ],
   "Peliculatelevision": [
@@ -10472,7 +11312,8 @@
       "Time": "1h 00min",
       "Title": "South Park: The End of Obesity (2024)",
       "Trailer": "https://dsltl0tjyahh.milocdn.com/hls2/01/01762/8zatdu2bkpl8_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=eMWLZnhjdbSKw1gEMvgyl2nphaAwpGzu8lWxxHDcVSA&s=1744615724&e=129600&f=8810352&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "4c05"
     },
     {
       "Casts": [
@@ -10520,7 +11361,8 @@
       "Time": "1h 22m",
       "Title": "Los Green en la gran ciudad, la película: Salvando el Greenverso (2024)",
       "Trailer": "https://lsj7fwyxsn2mklu.premilkyway.com/hls2/01/06906/touojnimt4wc_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=6ioLYPyruiSvdl9LqgSHhlw1IwKlnVC1QR9T8YLrhh0&s=1744612109&e=129600&f=34531919&srv=xcjcmoh7mtij&i=0.4&sp=500&p1=xcjcmoh7mtij&p2=xcjcmoh7mtij&asn=6147",
-      "Year": 2024
+      "Year": 2024,
+      "id": "ed8b"
     }
   ],
   "Misterio": [
@@ -10560,54 +11402,99 @@
       "Time": "2h 09m",
       "Title": "Smile 2",
       "Trailer": "https://vidhideplus.com/v/x3skunxizjh9",
-      "Year": 2024
+      "Year": 2024,
+      "id": "7afb"
+    },
+    {
+      "id": "211a",
+      "Casts": [
+        {
+          "Actor": "Danielle Deadwyler",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/ifQcCBM5B4dIJdz4B0laO4yQuzU.jpg"
+        },
+        {
+          "Actor": "Okwui Okpokwasili",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/jJIm1dBQ3yYztPrMCwnKSJl9F0U.jpg"
+        },
+        {
+          "Actor": "Peyton Jackson",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg"
+        },
+        {
+          "Actor": "Estella Kahiha",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/uQF4rAu6DZRXF4zHugsr1mGs8Bj.jpg"
+        },
+        {
+          "Actor": "Russell Hornsby",
+          "PicUrl": "https://media.themoviedb.org/t/p/w138_and_h175_face/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+        }
+      ],
+      "Description": "Una mujer misteriosa que aparece repetidamente en el patio delantero de una familia, a menudo entregando advertencias escalofriantes o mensajes inquietantes, dejando a los residentes cuestionando su identidad, sus motivos y el peligro potencial que podría representar.",
+      "Poster": "https://www.themoviedb.org/t/p/w1280/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "Genre": [
+        "Terror",
+        "Misterio"
+      ],
+      "Time": "1h 27m",
+      "Title": "The Woman in the Yard",
+      "Trailer": "https://niikaplayerr.com/stream/NUGGK7gbeL7DOCwEHpuJPA/hjkrhuihghfvu/1744815668/22223597/index-f1-v1-a1.m3u8",
+      "Year": 2025
     }
   ],
   "AmericaTV": [
     {
       "Poster": "https://i.ibb.co/fNfBdhc/1-Bn-WL-SV-400x400.jpg",
       "Title": "tv Perú",
-      "Trailer": "https://irtp-player.iblups.com/tvperuhd"
+      "Trailer": "https://irtp-player.iblups.com/tvperuhd",
+      "id": "2b83"
     },
     {
       "Poster": "https://i.ibb.co/BwVr1Yc/Nota-de-prensa-1-Logo-Canal-IPe.png",
       "Title": "Canal ipe",
-      "Trailer": "https://irtp-player.iblups.com/canalipe"
+      "Trailer": "https://irtp-player.iblups.com/canalipe",
+      "id": "b206"
     },
     {
       "Poster": "https://i.ibb.co/Bnsgk2L/atv.jpg",
       "Title": "ATV",
-      "Trailer": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+      "Trailer": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+      "id": "e555"
     },
-	{
+    {
       "Poster": "https://i.imgur.com/8Hvk59N.png",
       "Title": "Latina",
-      "Trailer": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+      "Trailer": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+      "id": "2fa3"
     },
     {
       "Poster": "https://i.ibb.co/zR5XCWj/images.png",
       "Title": "America Television",
-      "Trailer": "https://player.twitch.tv/?channel=americatv_envivo&muted=false&parent=americatv_envivo"
+      "Trailer": "https://player.twitch.tv/?channel=americatv_envivo&muted=false&parent=americatv_envivo",
+      "id": "71f6"
     },
     {
       "Poster": "https://i.ibb.co/LvdnczF/panamericana.png",
       "Title": "Panamericana TV",
-      "Trailer": "https://player.twitch.tv/?channel=panamericanatvpe&muted=false&parent=panamericana.pe"
+      "Trailer": "https://player.twitch.tv/?channel=panamericanatvpe&muted=false&parent=panamericana.pe",
+      "id": "701e"
     },
     {
       "Poster": "https://i.ibb.co/fY74j4v/exitosa.png",
       "Title": "Exitosa",
-      "Trailer": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
+      "Trailer": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0",
+      "id": "48c1"
     },
     {
       "Poster": "https://i.ibb.co/1JXPpqW/atvsur.jpg",
       "Title": "ATV Sur",
-      "Trailer": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8"
+      "Trailer": "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8",
+      "id": "1486"
     },
     {
       "Poster": "https://i.ibb.co/Bnsgk2L/atv.jpg",
       "Title": "ATV+",
-      "Trailer": "https://d1svme839xkbsn.cloudfront.net/index.m3u8"
+      "Trailer": "https://d1svme839xkbsn.cloudfront.net/index.m3u8",
+      "id": "388d"
     }
   ]
 }
